@@ -1,0 +1,1729 @@
+scenario,repeat,model,modality,seed,true_label,pred_label,count
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),audio,42,Q1,Q1,56
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),audio,42,Q1,Q2,15
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),audio,42,Q1,Q3,1
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),audio,42,Q1,Q4,5
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),audio,42,Q2,Q1,5
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),audio,42,Q2,Q2,94
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),audio,42,Q2,Q3,1
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),audio,42,Q2,Q4,0
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),audio,42,Q3,Q1,6
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),audio,42,Q3,Q2,7
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),audio,42,Q3,Q3,34
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),audio,42,Q3,Q4,27
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),audio,42,Q4,Q1,12
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),audio,42,Q4,Q2,1
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),audio,42,Q4,Q3,28
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),audio,42,Q4,Q4,35
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),text,42,Q1,Q1,58
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),text,42,Q1,Q2,3
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),text,42,Q1,Q3,5
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),text,42,Q1,Q4,11
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),text,42,Q2,Q1,2
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),text,42,Q2,Q2,96
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),text,42,Q2,Q3,2
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),text,42,Q2,Q4,0
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),text,42,Q3,Q1,5
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),text,42,Q3,Q2,12
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),text,42,Q3,Q3,47
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),text,42,Q3,Q4,10
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),text,42,Q4,Q1,17
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),text,42,Q4,Q2,1
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),text,42,Q4,Q3,14
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),text,42,Q4,Q4,44
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q1,Q1,58
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q1,Q2,3
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q1,Q3,3
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q1,Q4,13
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q2,Q1,2
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q2,Q2,97
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q2,Q3,1
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q2,Q4,0
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q3,Q1,3
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q3,Q2,8
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q3,Q3,50
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q3,Q4,13
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q4,Q1,10
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q4,Q2,1
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q4,Q3,9
+tvt_70_15_15,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q4,Q4,56
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),audio,42,Q1,Q1,58
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),audio,42,Q1,Q2,18
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),audio,42,Q1,Q3,0
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),audio,42,Q1,Q4,1
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),audio,42,Q2,Q1,4
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),audio,42,Q2,Q2,95
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),audio,42,Q2,Q3,0
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),audio,42,Q2,Q4,1
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),audio,42,Q3,Q1,11
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),audio,42,Q3,Q2,11
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),audio,42,Q3,Q3,28
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),audio,42,Q3,Q4,24
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),audio,42,Q4,Q1,21
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),audio,42,Q4,Q2,1
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),audio,42,Q4,Q3,36
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),audio,42,Q4,Q4,18
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),text,42,Q1,Q1,57
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),text,42,Q1,Q2,2
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),text,42,Q1,Q3,2
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),text,42,Q1,Q4,16
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),text,42,Q2,Q1,2
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),text,42,Q2,Q2,95
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),text,42,Q2,Q3,3
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),text,42,Q2,Q4,0
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),text,42,Q3,Q1,4
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),text,42,Q3,Q2,6
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),text,42,Q3,Q3,50
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),text,42,Q3,Q4,14
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),text,42,Q4,Q1,17
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),text,42,Q4,Q2,0
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),text,42,Q4,Q3,10
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),text,42,Q4,Q4,49
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q1,Q1,68
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q1,Q2,4
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q1,Q3,0
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q1,Q4,5
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q2,Q1,4
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q2,Q2,95
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q2,Q3,1
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q2,Q4,0
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q3,Q1,6
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q3,Q2,6
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q3,Q3,43
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q3,Q4,19
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q4,Q1,12
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q4,Q2,0
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q4,Q3,9
+tvt_70_15_15,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q4,Q4,55
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),audio,42,Q1,Q1,42
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),audio,42,Q1,Q2,14
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),audio,42,Q1,Q3,7
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),audio,42,Q1,Q4,14
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),audio,42,Q2,Q1,3
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),audio,42,Q2,Q2,96
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),audio,42,Q2,Q3,0
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),audio,42,Q2,Q4,1
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),audio,42,Q3,Q1,3
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),audio,42,Q3,Q2,6
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),audio,42,Q3,Q3,34
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),audio,42,Q3,Q4,31
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),audio,42,Q4,Q1,10
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),audio,42,Q4,Q2,1
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),audio,42,Q4,Q3,26
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),audio,42,Q4,Q4,39
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),text,42,Q1,Q1,55
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),text,42,Q1,Q2,3
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),text,42,Q1,Q3,3
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),text,42,Q1,Q4,16
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),text,42,Q2,Q1,1
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),text,42,Q2,Q2,96
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),text,42,Q2,Q3,3
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),text,42,Q2,Q4,0
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),text,42,Q3,Q1,6
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),text,42,Q3,Q2,11
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),text,42,Q3,Q3,43
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),text,42,Q3,Q4,14
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),text,42,Q4,Q1,14
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),text,42,Q4,Q2,0
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),text,42,Q4,Q3,7
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),text,42,Q4,Q4,55
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),bimodal,42,Q1,Q1,69
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),bimodal,42,Q1,Q2,1
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),bimodal,42,Q1,Q3,2
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),bimodal,42,Q1,Q4,5
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),bimodal,42,Q2,Q1,5
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),bimodal,42,Q2,Q2,94
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),bimodal,42,Q2,Q3,1
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),bimodal,42,Q2,Q4,0
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),bimodal,42,Q3,Q1,5
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),bimodal,42,Q3,Q2,5
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),bimodal,42,Q3,Q3,49
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),bimodal,42,Q3,Q4,15
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),bimodal,42,Q4,Q1,10
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),bimodal,42,Q4,Q2,0
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),bimodal,42,Q4,Q3,11
+tvt_70_15_15,1,CRNN BiGRU (Late Fusion),bimodal,42,Q4,Q4,55
+tvt_70_15_15,1,Joint Transformer (Early Fusion),audio,42,Q1,Q1,58
+tvt_70_15_15,1,Joint Transformer (Early Fusion),audio,42,Q1,Q2,10
+tvt_70_15_15,1,Joint Transformer (Early Fusion),audio,42,Q1,Q3,3
+tvt_70_15_15,1,Joint Transformer (Early Fusion),audio,42,Q1,Q4,6
+tvt_70_15_15,1,Joint Transformer (Early Fusion),audio,42,Q2,Q1,10
+tvt_70_15_15,1,Joint Transformer (Early Fusion),audio,42,Q2,Q2,89
+tvt_70_15_15,1,Joint Transformer (Early Fusion),audio,42,Q2,Q3,0
+tvt_70_15_15,1,Joint Transformer (Early Fusion),audio,42,Q2,Q4,1
+tvt_70_15_15,1,Joint Transformer (Early Fusion),audio,42,Q3,Q1,8
+tvt_70_15_15,1,Joint Transformer (Early Fusion),audio,42,Q3,Q2,5
+tvt_70_15_15,1,Joint Transformer (Early Fusion),audio,42,Q3,Q3,20
+tvt_70_15_15,1,Joint Transformer (Early Fusion),audio,42,Q3,Q4,41
+tvt_70_15_15,1,Joint Transformer (Early Fusion),audio,42,Q4,Q1,11
+tvt_70_15_15,1,Joint Transformer (Early Fusion),audio,42,Q4,Q2,1
+tvt_70_15_15,1,Joint Transformer (Early Fusion),audio,42,Q4,Q3,17
+tvt_70_15_15,1,Joint Transformer (Early Fusion),audio,42,Q4,Q4,47
+tvt_70_15_15,1,Joint Transformer (Early Fusion),text,42,Q1,Q1,49
+tvt_70_15_15,1,Joint Transformer (Early Fusion),text,42,Q1,Q2,5
+tvt_70_15_15,1,Joint Transformer (Early Fusion),text,42,Q1,Q3,2
+tvt_70_15_15,1,Joint Transformer (Early Fusion),text,42,Q1,Q4,21
+tvt_70_15_15,1,Joint Transformer (Early Fusion),text,42,Q2,Q1,1
+tvt_70_15_15,1,Joint Transformer (Early Fusion),text,42,Q2,Q2,96
+tvt_70_15_15,1,Joint Transformer (Early Fusion),text,42,Q2,Q3,2
+tvt_70_15_15,1,Joint Transformer (Early Fusion),text,42,Q2,Q4,1
+tvt_70_15_15,1,Joint Transformer (Early Fusion),text,42,Q3,Q1,3
+tvt_70_15_15,1,Joint Transformer (Early Fusion),text,42,Q3,Q2,10
+tvt_70_15_15,1,Joint Transformer (Early Fusion),text,42,Q3,Q3,43
+tvt_70_15_15,1,Joint Transformer (Early Fusion),text,42,Q3,Q4,18
+tvt_70_15_15,1,Joint Transformer (Early Fusion),text,42,Q4,Q1,11
+tvt_70_15_15,1,Joint Transformer (Early Fusion),text,42,Q4,Q2,0
+tvt_70_15_15,1,Joint Transformer (Early Fusion),text,42,Q4,Q3,6
+tvt_70_15_15,1,Joint Transformer (Early Fusion),text,42,Q4,Q4,59
+tvt_70_15_15,1,Joint Transformer (Early Fusion),bimodal,42,Q1,Q1,66
+tvt_70_15_15,1,Joint Transformer (Early Fusion),bimodal,42,Q1,Q2,3
+tvt_70_15_15,1,Joint Transformer (Early Fusion),bimodal,42,Q1,Q3,2
+tvt_70_15_15,1,Joint Transformer (Early Fusion),bimodal,42,Q1,Q4,6
+tvt_70_15_15,1,Joint Transformer (Early Fusion),bimodal,42,Q2,Q1,1
+tvt_70_15_15,1,Joint Transformer (Early Fusion),bimodal,42,Q2,Q2,98
+tvt_70_15_15,1,Joint Transformer (Early Fusion),bimodal,42,Q2,Q3,1
+tvt_70_15_15,1,Joint Transformer (Early Fusion),bimodal,42,Q2,Q4,0
+tvt_70_15_15,1,Joint Transformer (Early Fusion),bimodal,42,Q3,Q1,3
+tvt_70_15_15,1,Joint Transformer (Early Fusion),bimodal,42,Q3,Q2,4
+tvt_70_15_15,1,Joint Transformer (Early Fusion),bimodal,42,Q3,Q3,48
+tvt_70_15_15,1,Joint Transformer (Early Fusion),bimodal,42,Q3,Q4,19
+tvt_70_15_15,1,Joint Transformer (Early Fusion),bimodal,42,Q4,Q1,12
+tvt_70_15_15,1,Joint Transformer (Early Fusion),bimodal,42,Q4,Q2,0
+tvt_70_15_15,1,Joint Transformer (Early Fusion),bimodal,42,Q4,Q3,9
+tvt_70_15_15,1,Joint Transformer (Early Fusion),bimodal,42,Q4,Q4,55
+tvt_70_15_15,1,Weighted Average Fusion,audio,42,Q1,Q1,51
+tvt_70_15_15,1,Weighted Average Fusion,audio,42,Q1,Q2,16
+tvt_70_15_15,1,Weighted Average Fusion,audio,42,Q1,Q3,5
+tvt_70_15_15,1,Weighted Average Fusion,audio,42,Q1,Q4,5
+tvt_70_15_15,1,Weighted Average Fusion,audio,42,Q2,Q1,2
+tvt_70_15_15,1,Weighted Average Fusion,audio,42,Q2,Q2,96
+tvt_70_15_15,1,Weighted Average Fusion,audio,42,Q2,Q3,1
+tvt_70_15_15,1,Weighted Average Fusion,audio,42,Q2,Q4,1
+tvt_70_15_15,1,Weighted Average Fusion,audio,42,Q3,Q1,6
+tvt_70_15_15,1,Weighted Average Fusion,audio,42,Q3,Q2,5
+tvt_70_15_15,1,Weighted Average Fusion,audio,42,Q3,Q3,38
+tvt_70_15_15,1,Weighted Average Fusion,audio,42,Q3,Q4,25
+tvt_70_15_15,1,Weighted Average Fusion,audio,42,Q4,Q1,12
+tvt_70_15_15,1,Weighted Average Fusion,audio,42,Q4,Q2,1
+tvt_70_15_15,1,Weighted Average Fusion,audio,42,Q4,Q3,33
+tvt_70_15_15,1,Weighted Average Fusion,audio,42,Q4,Q4,30
+tvt_70_15_15,1,Weighted Average Fusion,text,42,Q1,Q1,59
+tvt_70_15_15,1,Weighted Average Fusion,text,42,Q1,Q2,3
+tvt_70_15_15,1,Weighted Average Fusion,text,42,Q1,Q3,5
+tvt_70_15_15,1,Weighted Average Fusion,text,42,Q1,Q4,10
+tvt_70_15_15,1,Weighted Average Fusion,text,42,Q2,Q1,2
+tvt_70_15_15,1,Weighted Average Fusion,text,42,Q2,Q2,96
+tvt_70_15_15,1,Weighted Average Fusion,text,42,Q2,Q3,2
+tvt_70_15_15,1,Weighted Average Fusion,text,42,Q2,Q4,0
+tvt_70_15_15,1,Weighted Average Fusion,text,42,Q3,Q1,8
+tvt_70_15_15,1,Weighted Average Fusion,text,42,Q3,Q2,9
+tvt_70_15_15,1,Weighted Average Fusion,text,42,Q3,Q3,47
+tvt_70_15_15,1,Weighted Average Fusion,text,42,Q3,Q4,10
+tvt_70_15_15,1,Weighted Average Fusion,text,42,Q4,Q1,19
+tvt_70_15_15,1,Weighted Average Fusion,text,42,Q4,Q2,0
+tvt_70_15_15,1,Weighted Average Fusion,text,42,Q4,Q3,13
+tvt_70_15_15,1,Weighted Average Fusion,text,42,Q4,Q4,44
+tvt_70_15_15,1,Weighted Average Fusion,bimodal,42,Q1,Q1,61
+tvt_70_15_15,1,Weighted Average Fusion,bimodal,42,Q1,Q2,3
+tvt_70_15_15,1,Weighted Average Fusion,bimodal,42,Q1,Q3,3
+tvt_70_15_15,1,Weighted Average Fusion,bimodal,42,Q1,Q4,10
+tvt_70_15_15,1,Weighted Average Fusion,bimodal,42,Q2,Q1,2
+tvt_70_15_15,1,Weighted Average Fusion,bimodal,42,Q2,Q2,97
+tvt_70_15_15,1,Weighted Average Fusion,bimodal,42,Q2,Q3,1
+tvt_70_15_15,1,Weighted Average Fusion,bimodal,42,Q2,Q4,0
+tvt_70_15_15,1,Weighted Average Fusion,bimodal,42,Q3,Q1,6
+tvt_70_15_15,1,Weighted Average Fusion,bimodal,42,Q3,Q2,9
+tvt_70_15_15,1,Weighted Average Fusion,bimodal,42,Q3,Q3,47
+tvt_70_15_15,1,Weighted Average Fusion,bimodal,42,Q3,Q4,12
+tvt_70_15_15,1,Weighted Average Fusion,bimodal,42,Q4,Q1,11
+tvt_70_15_15,1,Weighted Average Fusion,bimodal,42,Q4,Q2,0
+tvt_70_15_15,1,Weighted Average Fusion,bimodal,42,Q4,Q3,14
+tvt_70_15_15,1,Weighted Average Fusion,bimodal,42,Q4,Q4,51
+tvt_70_15_15,1,Gated Multimodal Fusion,audio,42,Q1,Q1,48
+tvt_70_15_15,1,Gated Multimodal Fusion,audio,42,Q1,Q2,13
+tvt_70_15_15,1,Gated Multimodal Fusion,audio,42,Q1,Q3,5
+tvt_70_15_15,1,Gated Multimodal Fusion,audio,42,Q1,Q4,11
+tvt_70_15_15,1,Gated Multimodal Fusion,audio,42,Q2,Q1,4
+tvt_70_15_15,1,Gated Multimodal Fusion,audio,42,Q2,Q2,94
+tvt_70_15_15,1,Gated Multimodal Fusion,audio,42,Q2,Q3,0
+tvt_70_15_15,1,Gated Multimodal Fusion,audio,42,Q2,Q4,2
+tvt_70_15_15,1,Gated Multimodal Fusion,audio,42,Q3,Q1,3
+tvt_70_15_15,1,Gated Multimodal Fusion,audio,42,Q3,Q2,6
+tvt_70_15_15,1,Gated Multimodal Fusion,audio,42,Q3,Q3,35
+tvt_70_15_15,1,Gated Multimodal Fusion,audio,42,Q3,Q4,30
+tvt_70_15_15,1,Gated Multimodal Fusion,audio,42,Q4,Q1,11
+tvt_70_15_15,1,Gated Multimodal Fusion,audio,42,Q4,Q2,1
+tvt_70_15_15,1,Gated Multimodal Fusion,audio,42,Q4,Q3,24
+tvt_70_15_15,1,Gated Multimodal Fusion,audio,42,Q4,Q4,40
+tvt_70_15_15,1,Gated Multimodal Fusion,text,42,Q1,Q1,60
+tvt_70_15_15,1,Gated Multimodal Fusion,text,42,Q1,Q2,2
+tvt_70_15_15,1,Gated Multimodal Fusion,text,42,Q1,Q3,4
+tvt_70_15_15,1,Gated Multimodal Fusion,text,42,Q1,Q4,11
+tvt_70_15_15,1,Gated Multimodal Fusion,text,42,Q2,Q1,2
+tvt_70_15_15,1,Gated Multimodal Fusion,text,42,Q2,Q2,96
+tvt_70_15_15,1,Gated Multimodal Fusion,text,42,Q2,Q3,2
+tvt_70_15_15,1,Gated Multimodal Fusion,text,42,Q2,Q4,0
+tvt_70_15_15,1,Gated Multimodal Fusion,text,42,Q3,Q1,5
+tvt_70_15_15,1,Gated Multimodal Fusion,text,42,Q3,Q2,10
+tvt_70_15_15,1,Gated Multimodal Fusion,text,42,Q3,Q3,49
+tvt_70_15_15,1,Gated Multimodal Fusion,text,42,Q3,Q4,10
+tvt_70_15_15,1,Gated Multimodal Fusion,text,42,Q4,Q1,19
+tvt_70_15_15,1,Gated Multimodal Fusion,text,42,Q4,Q2,0
+tvt_70_15_15,1,Gated Multimodal Fusion,text,42,Q4,Q3,12
+tvt_70_15_15,1,Gated Multimodal Fusion,text,42,Q4,Q4,45
+tvt_70_15_15,1,Gated Multimodal Fusion,bimodal,42,Q1,Q1,54
+tvt_70_15_15,1,Gated Multimodal Fusion,bimodal,42,Q1,Q2,2
+tvt_70_15_15,1,Gated Multimodal Fusion,bimodal,42,Q1,Q3,4
+tvt_70_15_15,1,Gated Multimodal Fusion,bimodal,42,Q1,Q4,17
+tvt_70_15_15,1,Gated Multimodal Fusion,bimodal,42,Q2,Q1,2
+tvt_70_15_15,1,Gated Multimodal Fusion,bimodal,42,Q2,Q2,97
+tvt_70_15_15,1,Gated Multimodal Fusion,bimodal,42,Q2,Q3,1
+tvt_70_15_15,1,Gated Multimodal Fusion,bimodal,42,Q2,Q4,0
+tvt_70_15_15,1,Gated Multimodal Fusion,bimodal,42,Q3,Q1,2
+tvt_70_15_15,1,Gated Multimodal Fusion,bimodal,42,Q3,Q2,5
+tvt_70_15_15,1,Gated Multimodal Fusion,bimodal,42,Q3,Q3,49
+tvt_70_15_15,1,Gated Multimodal Fusion,bimodal,42,Q3,Q4,18
+tvt_70_15_15,1,Gated Multimodal Fusion,bimodal,42,Q4,Q1,7
+tvt_70_15_15,1,Gated Multimodal Fusion,bimodal,42,Q4,Q2,0
+tvt_70_15_15,1,Gated Multimodal Fusion,bimodal,42,Q4,Q3,9
+tvt_70_15_15,1,Gated Multimodal Fusion,bimodal,42,Q4,Q4,60
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),audio,42,Q1,Q1,55
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),audio,42,Q1,Q2,17
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),audio,42,Q1,Q3,2
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),audio,42,Q1,Q4,3
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),audio,42,Q2,Q1,4
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),audio,42,Q2,Q2,93
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),audio,42,Q2,Q3,2
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),audio,42,Q2,Q4,0
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),audio,42,Q3,Q1,6
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),audio,42,Q3,Q2,3
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),audio,42,Q3,Q3,41
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),audio,42,Q3,Q4,24
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),audio,42,Q4,Q1,5
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),audio,42,Q4,Q2,2
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),audio,42,Q4,Q3,33
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),audio,42,Q4,Q4,35
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),text,42,Q1,Q1,65
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),text,42,Q1,Q2,5
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),text,42,Q1,Q3,0
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),text,42,Q1,Q4,7
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),text,42,Q2,Q1,3
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),text,42,Q2,Q2,89
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),text,42,Q2,Q3,7
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),text,42,Q2,Q4,0
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),text,42,Q3,Q1,8
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),text,42,Q3,Q2,7
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),text,42,Q3,Q3,49
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),text,42,Q3,Q4,10
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),text,42,Q4,Q1,19
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),text,42,Q4,Q2,2
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),text,42,Q4,Q3,2
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),text,42,Q4,Q4,52
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q1,Q1,67
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q1,Q2,4
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q1,Q3,2
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q1,Q4,4
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q2,Q1,2
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q2,Q2,93
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q2,Q3,4
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q2,Q4,0
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q3,Q1,1
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q3,Q2,2
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q3,Q3,64
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q3,Q4,7
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q4,Q1,6
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q4,Q2,1
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q4,Q3,7
+tvt_70_15_15,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q4,Q4,61
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),audio,42,Q1,Q1,52
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),audio,42,Q1,Q2,19
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),audio,42,Q1,Q3,2
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),audio,42,Q1,Q4,4
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),audio,42,Q2,Q1,6
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),audio,42,Q2,Q2,93
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),audio,42,Q2,Q3,0
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),audio,42,Q2,Q4,0
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),audio,42,Q3,Q1,5
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),audio,42,Q3,Q2,2
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),audio,42,Q3,Q3,38
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),audio,42,Q3,Q4,29
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),audio,42,Q4,Q1,9
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),audio,42,Q4,Q2,0
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),audio,42,Q4,Q3,30
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),audio,42,Q4,Q4,36
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),text,42,Q1,Q1,63
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),text,42,Q1,Q2,1
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),text,42,Q1,Q3,4
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),text,42,Q1,Q4,9
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),text,42,Q2,Q1,4
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),text,42,Q2,Q2,77
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),text,42,Q2,Q3,17
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),text,42,Q2,Q4,1
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),text,42,Q3,Q1,5
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),text,42,Q3,Q2,2
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),text,42,Q3,Q3,62
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),text,42,Q3,Q4,5
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),text,42,Q4,Q1,16
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),text,42,Q4,Q2,2
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),text,42,Q4,Q3,10
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),text,42,Q4,Q4,47
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q1,Q1,63
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q1,Q2,2
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q1,Q3,4
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q1,Q4,8
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q2,Q1,4
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q2,Q2,89
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q2,Q3,6
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q2,Q4,0
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q3,Q1,4
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q3,Q2,1
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q3,Q3,61
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q3,Q4,8
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q4,Q1,9
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q4,Q2,1
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q4,Q3,11
+tvt_70_15_15,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q4,Q4,54
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),audio,42,Q1,Q1,54
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),audio,42,Q1,Q2,15
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),audio,42,Q1,Q3,2
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),audio,42,Q1,Q4,6
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),audio,42,Q2,Q1,8
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),audio,42,Q2,Q2,86
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),audio,42,Q2,Q3,4
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),audio,42,Q2,Q4,1
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),audio,42,Q3,Q1,7
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),audio,42,Q3,Q2,1
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),audio,42,Q3,Q3,32
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),audio,42,Q3,Q4,34
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),audio,42,Q4,Q1,5
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),audio,42,Q4,Q2,0
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),audio,42,Q4,Q3,32
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),audio,42,Q4,Q4,38
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),text,42,Q1,Q1,62
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),text,42,Q1,Q2,6
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),text,42,Q1,Q3,4
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),text,42,Q1,Q4,5
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),text,42,Q2,Q1,1
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),text,42,Q2,Q2,91
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),text,42,Q2,Q3,7
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),text,42,Q2,Q4,0
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),text,42,Q3,Q1,3
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),text,42,Q3,Q2,6
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),text,42,Q3,Q3,60
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),text,42,Q3,Q4,5
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),text,42,Q4,Q1,17
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),text,42,Q4,Q2,1
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),text,42,Q4,Q3,5
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),text,42,Q4,Q4,52
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),bimodal,42,Q1,Q1,62
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),bimodal,42,Q1,Q2,3
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),bimodal,42,Q1,Q3,6
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),bimodal,42,Q1,Q4,6
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),bimodal,42,Q2,Q1,4
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),bimodal,42,Q2,Q2,91
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),bimodal,42,Q2,Q3,3
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),bimodal,42,Q2,Q4,1
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),bimodal,42,Q3,Q1,4
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),bimodal,42,Q3,Q2,2
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),bimodal,42,Q3,Q3,59
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),bimodal,42,Q3,Q4,9
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),bimodal,42,Q4,Q1,5
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),bimodal,42,Q4,Q2,1
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),bimodal,42,Q4,Q3,7
+tvt_70_15_15,2,CRNN BiGRU (Late Fusion),bimodal,42,Q4,Q4,62
+tvt_70_15_15,2,Joint Transformer (Early Fusion),audio,42,Q1,Q1,56
+tvt_70_15_15,2,Joint Transformer (Early Fusion),audio,42,Q1,Q2,13
+tvt_70_15_15,2,Joint Transformer (Early Fusion),audio,42,Q1,Q3,2
+tvt_70_15_15,2,Joint Transformer (Early Fusion),audio,42,Q1,Q4,6
+tvt_70_15_15,2,Joint Transformer (Early Fusion),audio,42,Q2,Q1,10
+tvt_70_15_15,2,Joint Transformer (Early Fusion),audio,42,Q2,Q2,85
+tvt_70_15_15,2,Joint Transformer (Early Fusion),audio,42,Q2,Q3,3
+tvt_70_15_15,2,Joint Transformer (Early Fusion),audio,42,Q2,Q4,1
+tvt_70_15_15,2,Joint Transformer (Early Fusion),audio,42,Q3,Q1,12
+tvt_70_15_15,2,Joint Transformer (Early Fusion),audio,42,Q3,Q2,2
+tvt_70_15_15,2,Joint Transformer (Early Fusion),audio,42,Q3,Q3,43
+tvt_70_15_15,2,Joint Transformer (Early Fusion),audio,42,Q3,Q4,17
+tvt_70_15_15,2,Joint Transformer (Early Fusion),audio,42,Q4,Q1,10
+tvt_70_15_15,2,Joint Transformer (Early Fusion),audio,42,Q4,Q2,3
+tvt_70_15_15,2,Joint Transformer (Early Fusion),audio,42,Q4,Q3,31
+tvt_70_15_15,2,Joint Transformer (Early Fusion),audio,42,Q4,Q4,31
+tvt_70_15_15,2,Joint Transformer (Early Fusion),text,42,Q1,Q1,64
+tvt_70_15_15,2,Joint Transformer (Early Fusion),text,42,Q1,Q2,0
+tvt_70_15_15,2,Joint Transformer (Early Fusion),text,42,Q1,Q3,5
+tvt_70_15_15,2,Joint Transformer (Early Fusion),text,42,Q1,Q4,8
+tvt_70_15_15,2,Joint Transformer (Early Fusion),text,42,Q2,Q1,3
+tvt_70_15_15,2,Joint Transformer (Early Fusion),text,42,Q2,Q2,90
+tvt_70_15_15,2,Joint Transformer (Early Fusion),text,42,Q2,Q3,6
+tvt_70_15_15,2,Joint Transformer (Early Fusion),text,42,Q2,Q4,0
+tvt_70_15_15,2,Joint Transformer (Early Fusion),text,42,Q3,Q1,5
+tvt_70_15_15,2,Joint Transformer (Early Fusion),text,42,Q3,Q2,7
+tvt_70_15_15,2,Joint Transformer (Early Fusion),text,42,Q3,Q3,59
+tvt_70_15_15,2,Joint Transformer (Early Fusion),text,42,Q3,Q4,3
+tvt_70_15_15,2,Joint Transformer (Early Fusion),text,42,Q4,Q1,19
+tvt_70_15_15,2,Joint Transformer (Early Fusion),text,42,Q4,Q2,1
+tvt_70_15_15,2,Joint Transformer (Early Fusion),text,42,Q4,Q3,12
+tvt_70_15_15,2,Joint Transformer (Early Fusion),text,42,Q4,Q4,43
+tvt_70_15_15,2,Joint Transformer (Early Fusion),bimodal,42,Q1,Q1,64
+tvt_70_15_15,2,Joint Transformer (Early Fusion),bimodal,42,Q1,Q2,5
+tvt_70_15_15,2,Joint Transformer (Early Fusion),bimodal,42,Q1,Q3,1
+tvt_70_15_15,2,Joint Transformer (Early Fusion),bimodal,42,Q1,Q4,7
+tvt_70_15_15,2,Joint Transformer (Early Fusion),bimodal,42,Q2,Q1,3
+tvt_70_15_15,2,Joint Transformer (Early Fusion),bimodal,42,Q2,Q2,94
+tvt_70_15_15,2,Joint Transformer (Early Fusion),bimodal,42,Q2,Q3,2
+tvt_70_15_15,2,Joint Transformer (Early Fusion),bimodal,42,Q2,Q4,0
+tvt_70_15_15,2,Joint Transformer (Early Fusion),bimodal,42,Q3,Q1,3
+tvt_70_15_15,2,Joint Transformer (Early Fusion),bimodal,42,Q3,Q2,4
+tvt_70_15_15,2,Joint Transformer (Early Fusion),bimodal,42,Q3,Q3,64
+tvt_70_15_15,2,Joint Transformer (Early Fusion),bimodal,42,Q3,Q4,3
+tvt_70_15_15,2,Joint Transformer (Early Fusion),bimodal,42,Q4,Q1,5
+tvt_70_15_15,2,Joint Transformer (Early Fusion),bimodal,42,Q4,Q2,1
+tvt_70_15_15,2,Joint Transformer (Early Fusion),bimodal,42,Q4,Q3,19
+tvt_70_15_15,2,Joint Transformer (Early Fusion),bimodal,42,Q4,Q4,50
+tvt_70_15_15,2,Weighted Average Fusion,audio,42,Q1,Q1,56
+tvt_70_15_15,2,Weighted Average Fusion,audio,42,Q1,Q2,16
+tvt_70_15_15,2,Weighted Average Fusion,audio,42,Q1,Q3,1
+tvt_70_15_15,2,Weighted Average Fusion,audio,42,Q1,Q4,4
+tvt_70_15_15,2,Weighted Average Fusion,audio,42,Q2,Q1,3
+tvt_70_15_15,2,Weighted Average Fusion,audio,42,Q2,Q2,93
+tvt_70_15_15,2,Weighted Average Fusion,audio,42,Q2,Q3,2
+tvt_70_15_15,2,Weighted Average Fusion,audio,42,Q2,Q4,1
+tvt_70_15_15,2,Weighted Average Fusion,audio,42,Q3,Q1,8
+tvt_70_15_15,2,Weighted Average Fusion,audio,42,Q3,Q2,3
+tvt_70_15_15,2,Weighted Average Fusion,audio,42,Q3,Q3,47
+tvt_70_15_15,2,Weighted Average Fusion,audio,42,Q3,Q4,16
+tvt_70_15_15,2,Weighted Average Fusion,audio,42,Q4,Q1,6
+tvt_70_15_15,2,Weighted Average Fusion,audio,42,Q4,Q2,1
+tvt_70_15_15,2,Weighted Average Fusion,audio,42,Q4,Q3,41
+tvt_70_15_15,2,Weighted Average Fusion,audio,42,Q4,Q4,27
+tvt_70_15_15,2,Weighted Average Fusion,text,42,Q1,Q1,64
+tvt_70_15_15,2,Weighted Average Fusion,text,42,Q1,Q2,5
+tvt_70_15_15,2,Weighted Average Fusion,text,42,Q1,Q3,1
+tvt_70_15_15,2,Weighted Average Fusion,text,42,Q1,Q4,7
+tvt_70_15_15,2,Weighted Average Fusion,text,42,Q2,Q1,3
+tvt_70_15_15,2,Weighted Average Fusion,text,42,Q2,Q2,91
+tvt_70_15_15,2,Weighted Average Fusion,text,42,Q2,Q3,5
+tvt_70_15_15,2,Weighted Average Fusion,text,42,Q2,Q4,0
+tvt_70_15_15,2,Weighted Average Fusion,text,42,Q3,Q1,9
+tvt_70_15_15,2,Weighted Average Fusion,text,42,Q3,Q2,9
+tvt_70_15_15,2,Weighted Average Fusion,text,42,Q3,Q3,50
+tvt_70_15_15,2,Weighted Average Fusion,text,42,Q3,Q4,6
+tvt_70_15_15,2,Weighted Average Fusion,text,42,Q4,Q1,21
+tvt_70_15_15,2,Weighted Average Fusion,text,42,Q4,Q2,1
+tvt_70_15_15,2,Weighted Average Fusion,text,42,Q4,Q3,8
+tvt_70_15_15,2,Weighted Average Fusion,text,42,Q4,Q4,45
+tvt_70_15_15,2,Weighted Average Fusion,bimodal,42,Q1,Q1,65
+tvt_70_15_15,2,Weighted Average Fusion,bimodal,42,Q1,Q2,5
+tvt_70_15_15,2,Weighted Average Fusion,bimodal,42,Q1,Q3,1
+tvt_70_15_15,2,Weighted Average Fusion,bimodal,42,Q1,Q4,6
+tvt_70_15_15,2,Weighted Average Fusion,bimodal,42,Q2,Q1,1
+tvt_70_15_15,2,Weighted Average Fusion,bimodal,42,Q2,Q2,95
+tvt_70_15_15,2,Weighted Average Fusion,bimodal,42,Q2,Q3,3
+tvt_70_15_15,2,Weighted Average Fusion,bimodal,42,Q2,Q4,0
+tvt_70_15_15,2,Weighted Average Fusion,bimodal,42,Q3,Q1,2
+tvt_70_15_15,2,Weighted Average Fusion,bimodal,42,Q3,Q2,4
+tvt_70_15_15,2,Weighted Average Fusion,bimodal,42,Q3,Q3,64
+tvt_70_15_15,2,Weighted Average Fusion,bimodal,42,Q3,Q4,4
+tvt_70_15_15,2,Weighted Average Fusion,bimodal,42,Q4,Q1,7
+tvt_70_15_15,2,Weighted Average Fusion,bimodal,42,Q4,Q2,2
+tvt_70_15_15,2,Weighted Average Fusion,bimodal,42,Q4,Q3,7
+tvt_70_15_15,2,Weighted Average Fusion,bimodal,42,Q4,Q4,59
+tvt_70_15_15,2,Gated Multimodal Fusion,audio,42,Q1,Q1,57
+tvt_70_15_15,2,Gated Multimodal Fusion,audio,42,Q1,Q2,10
+tvt_70_15_15,2,Gated Multimodal Fusion,audio,42,Q1,Q3,1
+tvt_70_15_15,2,Gated Multimodal Fusion,audio,42,Q1,Q4,9
+tvt_70_15_15,2,Gated Multimodal Fusion,audio,42,Q2,Q1,9
+tvt_70_15_15,2,Gated Multimodal Fusion,audio,42,Q2,Q2,87
+tvt_70_15_15,2,Gated Multimodal Fusion,audio,42,Q2,Q3,2
+tvt_70_15_15,2,Gated Multimodal Fusion,audio,42,Q2,Q4,1
+tvt_70_15_15,2,Gated Multimodal Fusion,audio,42,Q3,Q1,4
+tvt_70_15_15,2,Gated Multimodal Fusion,audio,42,Q3,Q2,2
+tvt_70_15_15,2,Gated Multimodal Fusion,audio,42,Q3,Q3,28
+tvt_70_15_15,2,Gated Multimodal Fusion,audio,42,Q3,Q4,40
+tvt_70_15_15,2,Gated Multimodal Fusion,audio,42,Q4,Q1,5
+tvt_70_15_15,2,Gated Multimodal Fusion,audio,42,Q4,Q2,0
+tvt_70_15_15,2,Gated Multimodal Fusion,audio,42,Q4,Q3,20
+tvt_70_15_15,2,Gated Multimodal Fusion,audio,42,Q4,Q4,50
+tvt_70_15_15,2,Gated Multimodal Fusion,text,42,Q1,Q1,64
+tvt_70_15_15,2,Gated Multimodal Fusion,text,42,Q1,Q2,6
+tvt_70_15_15,2,Gated Multimodal Fusion,text,42,Q1,Q3,1
+tvt_70_15_15,2,Gated Multimodal Fusion,text,42,Q1,Q4,6
+tvt_70_15_15,2,Gated Multimodal Fusion,text,42,Q2,Q1,1
+tvt_70_15_15,2,Gated Multimodal Fusion,text,42,Q2,Q2,92
+tvt_70_15_15,2,Gated Multimodal Fusion,text,42,Q2,Q3,6
+tvt_70_15_15,2,Gated Multimodal Fusion,text,42,Q2,Q4,0
+tvt_70_15_15,2,Gated Multimodal Fusion,text,42,Q3,Q1,8
+tvt_70_15_15,2,Gated Multimodal Fusion,text,42,Q3,Q2,9
+tvt_70_15_15,2,Gated Multimodal Fusion,text,42,Q3,Q3,49
+tvt_70_15_15,2,Gated Multimodal Fusion,text,42,Q3,Q4,8
+tvt_70_15_15,2,Gated Multimodal Fusion,text,42,Q4,Q1,19
+tvt_70_15_15,2,Gated Multimodal Fusion,text,42,Q4,Q2,2
+tvt_70_15_15,2,Gated Multimodal Fusion,text,42,Q4,Q3,6
+tvt_70_15_15,2,Gated Multimodal Fusion,text,42,Q4,Q4,48
+tvt_70_15_15,2,Gated Multimodal Fusion,bimodal,42,Q1,Q1,68
+tvt_70_15_15,2,Gated Multimodal Fusion,bimodal,42,Q1,Q2,3
+tvt_70_15_15,2,Gated Multimodal Fusion,bimodal,42,Q1,Q3,2
+tvt_70_15_15,2,Gated Multimodal Fusion,bimodal,42,Q1,Q4,4
+tvt_70_15_15,2,Gated Multimodal Fusion,bimodal,42,Q2,Q1,1
+tvt_70_15_15,2,Gated Multimodal Fusion,bimodal,42,Q2,Q2,96
+tvt_70_15_15,2,Gated Multimodal Fusion,bimodal,42,Q2,Q3,2
+tvt_70_15_15,2,Gated Multimodal Fusion,bimodal,42,Q2,Q4,0
+tvt_70_15_15,2,Gated Multimodal Fusion,bimodal,42,Q3,Q1,2
+tvt_70_15_15,2,Gated Multimodal Fusion,bimodal,42,Q3,Q2,3
+tvt_70_15_15,2,Gated Multimodal Fusion,bimodal,42,Q3,Q3,61
+tvt_70_15_15,2,Gated Multimodal Fusion,bimodal,42,Q3,Q4,8
+tvt_70_15_15,2,Gated Multimodal Fusion,bimodal,42,Q4,Q1,6
+tvt_70_15_15,2,Gated Multimodal Fusion,bimodal,42,Q4,Q2,1
+tvt_70_15_15,2,Gated Multimodal Fusion,bimodal,42,Q4,Q3,11
+tvt_70_15_15,2,Gated Multimodal Fusion,bimodal,42,Q4,Q4,57
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),audio,42,Q1,Q1,66
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),audio,42,Q1,Q2,4
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),audio,42,Q1,Q3,3
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),audio,42,Q1,Q4,6
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),audio,42,Q2,Q1,9
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),audio,42,Q2,Q2,86
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),audio,42,Q2,Q3,3
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),audio,42,Q2,Q4,1
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),audio,42,Q3,Q1,6
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),audio,42,Q3,Q2,2
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),audio,42,Q3,Q3,40
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),audio,42,Q3,Q4,26
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),audio,42,Q4,Q1,13
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),audio,42,Q4,Q2,0
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),audio,42,Q4,Q3,31
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),audio,42,Q4,Q4,31
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),text,42,Q1,Q1,59
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),text,42,Q1,Q2,8
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),text,42,Q1,Q3,3
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),text,42,Q1,Q4,9
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),text,42,Q2,Q1,2
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),text,42,Q2,Q2,85
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),text,42,Q2,Q3,11
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),text,42,Q2,Q4,1
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),text,42,Q3,Q1,5
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),text,42,Q3,Q2,4
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),text,42,Q3,Q3,56
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),text,42,Q3,Q4,9
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),text,42,Q4,Q1,16
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),text,42,Q4,Q2,0
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),text,42,Q4,Q3,12
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),text,42,Q4,Q4,47
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q1,Q1,69
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q1,Q2,6
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q1,Q3,2
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q1,Q4,2
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q2,Q1,2
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q2,Q2,96
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q2,Q3,1
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q2,Q4,0
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q3,Q1,3
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q3,Q2,4
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q3,Q3,56
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q3,Q4,11
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q4,Q1,21
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q4,Q2,0
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q4,Q3,9
+tvt_70_15_15,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q4,Q4,45
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),audio,42,Q1,Q1,61
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),audio,42,Q1,Q2,9
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),audio,42,Q1,Q3,2
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),audio,42,Q1,Q4,7
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),audio,42,Q2,Q1,6
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),audio,42,Q2,Q2,87
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),audio,42,Q2,Q3,4
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),audio,42,Q2,Q4,2
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),audio,42,Q3,Q1,5
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),audio,42,Q3,Q2,6
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),audio,42,Q3,Q3,32
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),audio,42,Q3,Q4,31
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),audio,42,Q4,Q1,7
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),audio,42,Q4,Q2,1
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),audio,42,Q4,Q3,24
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),audio,42,Q4,Q4,43
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),text,42,Q1,Q1,54
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),text,42,Q1,Q2,8
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),text,42,Q1,Q3,3
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),text,42,Q1,Q4,14
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),text,42,Q2,Q1,4
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),text,42,Q2,Q2,86
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),text,42,Q2,Q3,8
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),text,42,Q2,Q4,1
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),text,42,Q3,Q1,4
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),text,42,Q3,Q2,4
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),text,42,Q3,Q3,51
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),text,42,Q3,Q4,15
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),text,42,Q4,Q1,17
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),text,42,Q4,Q2,0
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),text,42,Q4,Q3,10
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),text,42,Q4,Q4,48
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q1,Q1,65
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q1,Q2,5
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q1,Q3,2
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q1,Q4,7
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q2,Q1,2
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q2,Q2,92
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q2,Q3,3
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q2,Q4,2
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q3,Q1,1
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q3,Q2,2
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q3,Q3,54
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q3,Q4,17
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q4,Q1,9
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q4,Q2,0
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q4,Q3,13
+tvt_70_15_15,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q4,Q4,53
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),audio,42,Q1,Q1,61
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),audio,42,Q1,Q2,14
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),audio,42,Q1,Q3,2
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),audio,42,Q1,Q4,2
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),audio,42,Q2,Q1,3
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),audio,42,Q2,Q2,92
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),audio,42,Q2,Q3,1
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),audio,42,Q2,Q4,3
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),audio,42,Q3,Q1,10
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),audio,42,Q3,Q2,4
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),audio,42,Q3,Q3,25
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),audio,42,Q3,Q4,35
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),audio,42,Q4,Q1,16
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),audio,42,Q4,Q2,2
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),audio,42,Q4,Q3,17
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),audio,42,Q4,Q4,40
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),text,42,Q1,Q1,63
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),text,42,Q1,Q2,8
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),text,42,Q1,Q3,1
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),text,42,Q1,Q4,7
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),text,42,Q2,Q1,5
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),text,42,Q2,Q2,85
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),text,42,Q2,Q3,9
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),text,42,Q2,Q4,0
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),text,42,Q3,Q1,11
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),text,42,Q3,Q2,7
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),text,42,Q3,Q3,46
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),text,42,Q3,Q4,10
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),text,42,Q4,Q1,23
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),text,42,Q4,Q2,0
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),text,42,Q4,Q3,5
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),text,42,Q4,Q4,47
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),bimodal,42,Q1,Q1,66
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),bimodal,42,Q1,Q2,6
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),bimodal,42,Q1,Q3,3
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),bimodal,42,Q1,Q4,4
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),bimodal,42,Q2,Q1,2
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),bimodal,42,Q2,Q2,96
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),bimodal,42,Q2,Q3,0
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),bimodal,42,Q2,Q4,1
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),bimodal,42,Q3,Q1,2
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),bimodal,42,Q3,Q2,5
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),bimodal,42,Q3,Q3,58
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),bimodal,42,Q3,Q4,9
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),bimodal,42,Q4,Q1,15
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),bimodal,42,Q4,Q2,0
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),bimodal,42,Q4,Q3,13
+tvt_70_15_15,3,CRNN BiGRU (Late Fusion),bimodal,42,Q4,Q4,47
+tvt_70_15_15,3,Joint Transformer (Early Fusion),audio,42,Q1,Q1,65
+tvt_70_15_15,3,Joint Transformer (Early Fusion),audio,42,Q1,Q2,7
+tvt_70_15_15,3,Joint Transformer (Early Fusion),audio,42,Q1,Q3,1
+tvt_70_15_15,3,Joint Transformer (Early Fusion),audio,42,Q1,Q4,6
+tvt_70_15_15,3,Joint Transformer (Early Fusion),audio,42,Q2,Q1,7
+tvt_70_15_15,3,Joint Transformer (Early Fusion),audio,42,Q2,Q2,87
+tvt_70_15_15,3,Joint Transformer (Early Fusion),audio,42,Q2,Q3,3
+tvt_70_15_15,3,Joint Transformer (Early Fusion),audio,42,Q2,Q4,2
+tvt_70_15_15,3,Joint Transformer (Early Fusion),audio,42,Q3,Q1,3
+tvt_70_15_15,3,Joint Transformer (Early Fusion),audio,42,Q3,Q2,4
+tvt_70_15_15,3,Joint Transformer (Early Fusion),audio,42,Q3,Q3,40
+tvt_70_15_15,3,Joint Transformer (Early Fusion),audio,42,Q3,Q4,27
+tvt_70_15_15,3,Joint Transformer (Early Fusion),audio,42,Q4,Q1,13
+tvt_70_15_15,3,Joint Transformer (Early Fusion),audio,42,Q4,Q2,0
+tvt_70_15_15,3,Joint Transformer (Early Fusion),audio,42,Q4,Q3,26
+tvt_70_15_15,3,Joint Transformer (Early Fusion),audio,42,Q4,Q4,36
+tvt_70_15_15,3,Joint Transformer (Early Fusion),text,42,Q1,Q1,61
+tvt_70_15_15,3,Joint Transformer (Early Fusion),text,42,Q1,Q2,4
+tvt_70_15_15,3,Joint Transformer (Early Fusion),text,42,Q1,Q3,6
+tvt_70_15_15,3,Joint Transformer (Early Fusion),text,42,Q1,Q4,8
+tvt_70_15_15,3,Joint Transformer (Early Fusion),text,42,Q2,Q1,2
+tvt_70_15_15,3,Joint Transformer (Early Fusion),text,42,Q2,Q2,84
+tvt_70_15_15,3,Joint Transformer (Early Fusion),text,42,Q2,Q3,12
+tvt_70_15_15,3,Joint Transformer (Early Fusion),text,42,Q2,Q4,1
+tvt_70_15_15,3,Joint Transformer (Early Fusion),text,42,Q3,Q1,8
+tvt_70_15_15,3,Joint Transformer (Early Fusion),text,42,Q3,Q2,5
+tvt_70_15_15,3,Joint Transformer (Early Fusion),text,42,Q3,Q3,56
+tvt_70_15_15,3,Joint Transformer (Early Fusion),text,42,Q3,Q4,5
+tvt_70_15_15,3,Joint Transformer (Early Fusion),text,42,Q4,Q1,20
+tvt_70_15_15,3,Joint Transformer (Early Fusion),text,42,Q4,Q2,0
+tvt_70_15_15,3,Joint Transformer (Early Fusion),text,42,Q4,Q3,12
+tvt_70_15_15,3,Joint Transformer (Early Fusion),text,42,Q4,Q4,43
+tvt_70_15_15,3,Joint Transformer (Early Fusion),bimodal,42,Q1,Q1,66
+tvt_70_15_15,3,Joint Transformer (Early Fusion),bimodal,42,Q1,Q2,6
+tvt_70_15_15,3,Joint Transformer (Early Fusion),bimodal,42,Q1,Q3,1
+tvt_70_15_15,3,Joint Transformer (Early Fusion),bimodal,42,Q1,Q4,6
+tvt_70_15_15,3,Joint Transformer (Early Fusion),bimodal,42,Q2,Q1,0
+tvt_70_15_15,3,Joint Transformer (Early Fusion),bimodal,42,Q2,Q2,93
+tvt_70_15_15,3,Joint Transformer (Early Fusion),bimodal,42,Q2,Q3,3
+tvt_70_15_15,3,Joint Transformer (Early Fusion),bimodal,42,Q2,Q4,3
+tvt_70_15_15,3,Joint Transformer (Early Fusion),bimodal,42,Q3,Q1,2
+tvt_70_15_15,3,Joint Transformer (Early Fusion),bimodal,42,Q3,Q2,0
+tvt_70_15_15,3,Joint Transformer (Early Fusion),bimodal,42,Q3,Q3,58
+tvt_70_15_15,3,Joint Transformer (Early Fusion),bimodal,42,Q3,Q4,14
+tvt_70_15_15,3,Joint Transformer (Early Fusion),bimodal,42,Q4,Q1,16
+tvt_70_15_15,3,Joint Transformer (Early Fusion),bimodal,42,Q4,Q2,0
+tvt_70_15_15,3,Joint Transformer (Early Fusion),bimodal,42,Q4,Q3,12
+tvt_70_15_15,3,Joint Transformer (Early Fusion),bimodal,42,Q4,Q4,47
+tvt_70_15_15,3,Weighted Average Fusion,audio,42,Q1,Q1,64
+tvt_70_15_15,3,Weighted Average Fusion,audio,42,Q1,Q2,9
+tvt_70_15_15,3,Weighted Average Fusion,audio,42,Q1,Q3,4
+tvt_70_15_15,3,Weighted Average Fusion,audio,42,Q1,Q4,2
+tvt_70_15_15,3,Weighted Average Fusion,audio,42,Q2,Q1,6
+tvt_70_15_15,3,Weighted Average Fusion,audio,42,Q2,Q2,88
+tvt_70_15_15,3,Weighted Average Fusion,audio,42,Q2,Q3,2
+tvt_70_15_15,3,Weighted Average Fusion,audio,42,Q2,Q4,3
+tvt_70_15_15,3,Weighted Average Fusion,audio,42,Q3,Q1,6
+tvt_70_15_15,3,Weighted Average Fusion,audio,42,Q3,Q2,2
+tvt_70_15_15,3,Weighted Average Fusion,audio,42,Q3,Q3,41
+tvt_70_15_15,3,Weighted Average Fusion,audio,42,Q3,Q4,25
+tvt_70_15_15,3,Weighted Average Fusion,audio,42,Q4,Q1,11
+tvt_70_15_15,3,Weighted Average Fusion,audio,42,Q4,Q2,0
+tvt_70_15_15,3,Weighted Average Fusion,audio,42,Q4,Q3,34
+tvt_70_15_15,3,Weighted Average Fusion,audio,42,Q4,Q4,30
+tvt_70_15_15,3,Weighted Average Fusion,text,42,Q1,Q1,57
+tvt_70_15_15,3,Weighted Average Fusion,text,42,Q1,Q2,8
+tvt_70_15_15,3,Weighted Average Fusion,text,42,Q1,Q3,3
+tvt_70_15_15,3,Weighted Average Fusion,text,42,Q1,Q4,11
+tvt_70_15_15,3,Weighted Average Fusion,text,42,Q2,Q1,2
+tvt_70_15_15,3,Weighted Average Fusion,text,42,Q2,Q2,89
+tvt_70_15_15,3,Weighted Average Fusion,text,42,Q2,Q3,7
+tvt_70_15_15,3,Weighted Average Fusion,text,42,Q2,Q4,1
+tvt_70_15_15,3,Weighted Average Fusion,text,42,Q3,Q1,4
+tvt_70_15_15,3,Weighted Average Fusion,text,42,Q3,Q2,5
+tvt_70_15_15,3,Weighted Average Fusion,text,42,Q3,Q3,52
+tvt_70_15_15,3,Weighted Average Fusion,text,42,Q3,Q4,13
+tvt_70_15_15,3,Weighted Average Fusion,text,42,Q4,Q1,16
+tvt_70_15_15,3,Weighted Average Fusion,text,42,Q4,Q2,0
+tvt_70_15_15,3,Weighted Average Fusion,text,42,Q4,Q3,10
+tvt_70_15_15,3,Weighted Average Fusion,text,42,Q4,Q4,49
+tvt_70_15_15,3,Weighted Average Fusion,bimodal,42,Q1,Q1,67
+tvt_70_15_15,3,Weighted Average Fusion,bimodal,42,Q1,Q2,5
+tvt_70_15_15,3,Weighted Average Fusion,bimodal,42,Q1,Q3,4
+tvt_70_15_15,3,Weighted Average Fusion,bimodal,42,Q1,Q4,3
+tvt_70_15_15,3,Weighted Average Fusion,bimodal,42,Q2,Q1,1
+tvt_70_15_15,3,Weighted Average Fusion,bimodal,42,Q2,Q2,97
+tvt_70_15_15,3,Weighted Average Fusion,bimodal,42,Q2,Q3,0
+tvt_70_15_15,3,Weighted Average Fusion,bimodal,42,Q2,Q4,1
+tvt_70_15_15,3,Weighted Average Fusion,bimodal,42,Q3,Q1,4
+tvt_70_15_15,3,Weighted Average Fusion,bimodal,42,Q3,Q2,3
+tvt_70_15_15,3,Weighted Average Fusion,bimodal,42,Q3,Q3,60
+tvt_70_15_15,3,Weighted Average Fusion,bimodal,42,Q3,Q4,7
+tvt_70_15_15,3,Weighted Average Fusion,bimodal,42,Q4,Q1,19
+tvt_70_15_15,3,Weighted Average Fusion,bimodal,42,Q4,Q2,0
+tvt_70_15_15,3,Weighted Average Fusion,bimodal,42,Q4,Q3,18
+tvt_70_15_15,3,Weighted Average Fusion,bimodal,42,Q4,Q4,38
+tvt_70_15_15,3,Gated Multimodal Fusion,audio,42,Q1,Q1,59
+tvt_70_15_15,3,Gated Multimodal Fusion,audio,42,Q1,Q2,13
+tvt_70_15_15,3,Gated Multimodal Fusion,audio,42,Q1,Q3,5
+tvt_70_15_15,3,Gated Multimodal Fusion,audio,42,Q1,Q4,2
+tvt_70_15_15,3,Gated Multimodal Fusion,audio,42,Q2,Q1,3
+tvt_70_15_15,3,Gated Multimodal Fusion,audio,42,Q2,Q2,91
+tvt_70_15_15,3,Gated Multimodal Fusion,audio,42,Q2,Q3,2
+tvt_70_15_15,3,Gated Multimodal Fusion,audio,42,Q2,Q4,3
+tvt_70_15_15,3,Gated Multimodal Fusion,audio,42,Q3,Q1,4
+tvt_70_15_15,3,Gated Multimodal Fusion,audio,42,Q3,Q2,3
+tvt_70_15_15,3,Gated Multimodal Fusion,audio,42,Q3,Q3,41
+tvt_70_15_15,3,Gated Multimodal Fusion,audio,42,Q3,Q4,26
+tvt_70_15_15,3,Gated Multimodal Fusion,audio,42,Q4,Q1,6
+tvt_70_15_15,3,Gated Multimodal Fusion,audio,42,Q4,Q2,0
+tvt_70_15_15,3,Gated Multimodal Fusion,audio,42,Q4,Q3,32
+tvt_70_15_15,3,Gated Multimodal Fusion,audio,42,Q4,Q4,37
+tvt_70_15_15,3,Gated Multimodal Fusion,text,42,Q1,Q1,55
+tvt_70_15_15,3,Gated Multimodal Fusion,text,42,Q1,Q2,11
+tvt_70_15_15,3,Gated Multimodal Fusion,text,42,Q1,Q3,3
+tvt_70_15_15,3,Gated Multimodal Fusion,text,42,Q1,Q4,10
+tvt_70_15_15,3,Gated Multimodal Fusion,text,42,Q2,Q1,1
+tvt_70_15_15,3,Gated Multimodal Fusion,text,42,Q2,Q2,91
+tvt_70_15_15,3,Gated Multimodal Fusion,text,42,Q2,Q3,6
+tvt_70_15_15,3,Gated Multimodal Fusion,text,42,Q2,Q4,1
+tvt_70_15_15,3,Gated Multimodal Fusion,text,42,Q3,Q1,4
+tvt_70_15_15,3,Gated Multimodal Fusion,text,42,Q3,Q2,7
+tvt_70_15_15,3,Gated Multimodal Fusion,text,42,Q3,Q3,54
+tvt_70_15_15,3,Gated Multimodal Fusion,text,42,Q3,Q4,9
+tvt_70_15_15,3,Gated Multimodal Fusion,text,42,Q4,Q1,15
+tvt_70_15_15,3,Gated Multimodal Fusion,text,42,Q4,Q2,1
+tvt_70_15_15,3,Gated Multimodal Fusion,text,42,Q4,Q3,12
+tvt_70_15_15,3,Gated Multimodal Fusion,text,42,Q4,Q4,47
+tvt_70_15_15,3,Gated Multimodal Fusion,bimodal,42,Q1,Q1,70
+tvt_70_15_15,3,Gated Multimodal Fusion,bimodal,42,Q1,Q2,7
+tvt_70_15_15,3,Gated Multimodal Fusion,bimodal,42,Q1,Q3,1
+tvt_70_15_15,3,Gated Multimodal Fusion,bimodal,42,Q1,Q4,1
+tvt_70_15_15,3,Gated Multimodal Fusion,bimodal,42,Q2,Q1,2
+tvt_70_15_15,3,Gated Multimodal Fusion,bimodal,42,Q2,Q2,97
+tvt_70_15_15,3,Gated Multimodal Fusion,bimodal,42,Q2,Q3,0
+tvt_70_15_15,3,Gated Multimodal Fusion,bimodal,42,Q2,Q4,0
+tvt_70_15_15,3,Gated Multimodal Fusion,bimodal,42,Q3,Q1,6
+tvt_70_15_15,3,Gated Multimodal Fusion,bimodal,42,Q3,Q2,7
+tvt_70_15_15,3,Gated Multimodal Fusion,bimodal,42,Q3,Q3,53
+tvt_70_15_15,3,Gated Multimodal Fusion,bimodal,42,Q3,Q4,8
+tvt_70_15_15,3,Gated Multimodal Fusion,bimodal,42,Q4,Q1,27
+tvt_70_15_15,3,Gated Multimodal Fusion,bimodal,42,Q4,Q2,1
+tvt_70_15_15,3,Gated Multimodal Fusion,bimodal,42,Q4,Q3,9
+tvt_70_15_15,3,Gated Multimodal Fusion,bimodal,42,Q4,Q4,38
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),audio,42,Q1,Q1,116
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),audio,42,Q1,Q2,22
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),audio,42,Q1,Q3,7
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),audio,42,Q1,Q4,9
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),audio,42,Q2,Q1,18
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),audio,42,Q2,Q2,176
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),audio,42,Q2,Q3,4
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),audio,42,Q2,Q4,0
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),audio,42,Q3,Q1,19
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),audio,42,Q3,Q2,10
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),audio,42,Q3,Q3,70
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),audio,42,Q3,Q4,48
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),audio,42,Q4,Q1,22
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),audio,42,Q4,Q2,1
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),audio,42,Q4,Q3,53
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),audio,42,Q4,Q4,75
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),text,42,Q1,Q1,126
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),text,42,Q1,Q2,5
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),text,42,Q1,Q3,7
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),text,42,Q1,Q4,16
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),text,42,Q2,Q1,14
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),text,42,Q2,Q2,176
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),text,42,Q2,Q3,7
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),text,42,Q2,Q4,1
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),text,42,Q3,Q1,15
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),text,42,Q3,Q2,21
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),text,42,Q3,Q3,85
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),text,42,Q3,Q4,26
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),text,42,Q4,Q1,37
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),text,42,Q4,Q2,6
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),text,42,Q4,Q3,11
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),text,42,Q4,Q4,97
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q1,Q1,142
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q1,Q2,3
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q1,Q3,3
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q1,Q4,6
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q2,Q1,10
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q2,Q2,183
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q2,Q3,5
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q2,Q4,0
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q3,Q1,11
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q3,Q2,11
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q3,Q3,102
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q3,Q4,23
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q4,Q1,27
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q4,Q2,3
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q4,Q3,20
+tvt_40_30_30,1,MERT + RoBERTa (Early Fusion),bimodal,42,Q4,Q4,101
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),audio,42,Q1,Q1,93
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),audio,42,Q1,Q2,50
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),audio,42,Q1,Q3,6
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),audio,42,Q1,Q4,5
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),audio,42,Q2,Q1,12
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),audio,42,Q2,Q2,184
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),audio,42,Q2,Q3,2
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),audio,42,Q2,Q4,0
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),audio,42,Q3,Q1,20
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),audio,42,Q3,Q2,12
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),audio,42,Q3,Q3,110
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),audio,42,Q3,Q4,5
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),audio,42,Q4,Q1,27
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),audio,42,Q4,Q2,6
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),audio,42,Q4,Q3,108
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),audio,42,Q4,Q4,10
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),text,42,Q1,Q1,120
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),text,42,Q1,Q2,6
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),text,42,Q1,Q3,3
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),text,42,Q1,Q4,25
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),text,42,Q2,Q1,13
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),text,42,Q2,Q2,172
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),text,42,Q2,Q3,11
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),text,42,Q2,Q4,2
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),text,42,Q3,Q1,14
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),text,42,Q3,Q2,23
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),text,42,Q3,Q3,78
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),text,42,Q3,Q4,32
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),text,42,Q4,Q1,43
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),text,42,Q4,Q2,5
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),text,42,Q4,Q3,13
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),text,42,Q4,Q4,90
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q1,Q1,132
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q1,Q2,14
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q1,Q3,1
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q1,Q4,7
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q2,Q1,11
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q2,Q2,184
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q2,Q3,2
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q2,Q4,1
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q3,Q1,9
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q3,Q2,22
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q3,Q3,90
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q3,Q4,26
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q4,Q1,28
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q4,Q2,3
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q4,Q3,28
+tvt_40_30_30,1,MoodNet-3 (CNN Concatenation),bimodal,42,Q4,Q4,92
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),audio,42,Q1,Q1,101
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),audio,42,Q1,Q2,33
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),audio,42,Q1,Q3,10
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),audio,42,Q1,Q4,10
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),audio,42,Q2,Q1,9
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),audio,42,Q2,Q2,183
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),audio,42,Q2,Q3,6
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),audio,42,Q2,Q4,0
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),audio,42,Q3,Q1,16
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),audio,42,Q3,Q2,11
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),audio,42,Q3,Q3,63
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),audio,42,Q3,Q4,57
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),audio,42,Q4,Q1,24
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),audio,42,Q4,Q2,3
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),audio,42,Q4,Q3,47
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),audio,42,Q4,Q4,77
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),text,42,Q1,Q1,130
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),text,42,Q1,Q2,2
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),text,42,Q1,Q3,11
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),text,42,Q1,Q4,11
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),text,42,Q2,Q1,10
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),text,42,Q2,Q2,178
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),text,42,Q2,Q3,9
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),text,42,Q2,Q4,1
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),text,42,Q3,Q1,16
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),text,42,Q3,Q2,16
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),text,42,Q3,Q3,95
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),text,42,Q3,Q4,20
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),text,42,Q4,Q1,38
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),text,42,Q4,Q2,3
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),text,42,Q4,Q3,18
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),text,42,Q4,Q4,92
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),bimodal,42,Q1,Q1,129
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),bimodal,42,Q1,Q2,2
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),bimodal,42,Q1,Q3,5
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),bimodal,42,Q1,Q4,18
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),bimodal,42,Q2,Q1,9
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),bimodal,42,Q2,Q2,187
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),bimodal,42,Q2,Q3,2
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),bimodal,42,Q2,Q4,0
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),bimodal,42,Q3,Q1,8
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),bimodal,42,Q3,Q2,10
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),bimodal,42,Q3,Q3,96
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),bimodal,42,Q3,Q4,33
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),bimodal,42,Q4,Q1,19
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),bimodal,42,Q4,Q2,3
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),bimodal,42,Q4,Q3,12
+tvt_40_30_30,1,CRNN BiGRU (Late Fusion),bimodal,42,Q4,Q4,117
+tvt_40_30_30,1,Joint Transformer (Early Fusion),audio,42,Q1,Q1,119
+tvt_40_30_30,1,Joint Transformer (Early Fusion),audio,42,Q1,Q2,21
+tvt_40_30_30,1,Joint Transformer (Early Fusion),audio,42,Q1,Q3,6
+tvt_40_30_30,1,Joint Transformer (Early Fusion),audio,42,Q1,Q4,8
+tvt_40_30_30,1,Joint Transformer (Early Fusion),audio,42,Q2,Q1,23
+tvt_40_30_30,1,Joint Transformer (Early Fusion),audio,42,Q2,Q2,170
+tvt_40_30_30,1,Joint Transformer (Early Fusion),audio,42,Q2,Q3,2
+tvt_40_30_30,1,Joint Transformer (Early Fusion),audio,42,Q2,Q4,3
+tvt_40_30_30,1,Joint Transformer (Early Fusion),audio,42,Q3,Q1,25
+tvt_40_30_30,1,Joint Transformer (Early Fusion),audio,42,Q3,Q2,10
+tvt_40_30_30,1,Joint Transformer (Early Fusion),audio,42,Q3,Q3,87
+tvt_40_30_30,1,Joint Transformer (Early Fusion),audio,42,Q3,Q4,25
+tvt_40_30_30,1,Joint Transformer (Early Fusion),audio,42,Q4,Q1,25
+tvt_40_30_30,1,Joint Transformer (Early Fusion),audio,42,Q4,Q2,1
+tvt_40_30_30,1,Joint Transformer (Early Fusion),audio,42,Q4,Q3,87
+tvt_40_30_30,1,Joint Transformer (Early Fusion),audio,42,Q4,Q4,38
+tvt_40_30_30,1,Joint Transformer (Early Fusion),text,42,Q1,Q1,116
+tvt_40_30_30,1,Joint Transformer (Early Fusion),text,42,Q1,Q2,2
+tvt_40_30_30,1,Joint Transformer (Early Fusion),text,42,Q1,Q3,17
+tvt_40_30_30,1,Joint Transformer (Early Fusion),text,42,Q1,Q4,19
+tvt_40_30_30,1,Joint Transformer (Early Fusion),text,42,Q2,Q1,4
+tvt_40_30_30,1,Joint Transformer (Early Fusion),text,42,Q2,Q2,180
+tvt_40_30_30,1,Joint Transformer (Early Fusion),text,42,Q2,Q3,12
+tvt_40_30_30,1,Joint Transformer (Early Fusion),text,42,Q2,Q4,2
+tvt_40_30_30,1,Joint Transformer (Early Fusion),text,42,Q3,Q1,4
+tvt_40_30_30,1,Joint Transformer (Early Fusion),text,42,Q3,Q2,15
+tvt_40_30_30,1,Joint Transformer (Early Fusion),text,42,Q3,Q3,107
+tvt_40_30_30,1,Joint Transformer (Early Fusion),text,42,Q3,Q4,21
+tvt_40_30_30,1,Joint Transformer (Early Fusion),text,42,Q4,Q1,30
+tvt_40_30_30,1,Joint Transformer (Early Fusion),text,42,Q4,Q2,4
+tvt_40_30_30,1,Joint Transformer (Early Fusion),text,42,Q4,Q3,31
+tvt_40_30_30,1,Joint Transformer (Early Fusion),text,42,Q4,Q4,86
+tvt_40_30_30,1,Joint Transformer (Early Fusion),bimodal,42,Q1,Q1,149
+tvt_40_30_30,1,Joint Transformer (Early Fusion),bimodal,42,Q1,Q2,1
+tvt_40_30_30,1,Joint Transformer (Early Fusion),bimodal,42,Q1,Q3,3
+tvt_40_30_30,1,Joint Transformer (Early Fusion),bimodal,42,Q1,Q4,1
+tvt_40_30_30,1,Joint Transformer (Early Fusion),bimodal,42,Q2,Q1,12
+tvt_40_30_30,1,Joint Transformer (Early Fusion),bimodal,42,Q2,Q2,181
+tvt_40_30_30,1,Joint Transformer (Early Fusion),bimodal,42,Q2,Q3,5
+tvt_40_30_30,1,Joint Transformer (Early Fusion),bimodal,42,Q2,Q4,0
+tvt_40_30_30,1,Joint Transformer (Early Fusion),bimodal,42,Q3,Q1,12
+tvt_40_30_30,1,Joint Transformer (Early Fusion),bimodal,42,Q3,Q2,8
+tvt_40_30_30,1,Joint Transformer (Early Fusion),bimodal,42,Q3,Q3,108
+tvt_40_30_30,1,Joint Transformer (Early Fusion),bimodal,42,Q3,Q4,19
+tvt_40_30_30,1,Joint Transformer (Early Fusion),bimodal,42,Q4,Q1,33
+tvt_40_30_30,1,Joint Transformer (Early Fusion),bimodal,42,Q4,Q2,2
+tvt_40_30_30,1,Joint Transformer (Early Fusion),bimodal,42,Q4,Q3,20
+tvt_40_30_30,1,Joint Transformer (Early Fusion),bimodal,42,Q4,Q4,96
+tvt_40_30_30,1,Weighted Average Fusion,audio,42,Q1,Q1,125
+tvt_40_30_30,1,Weighted Average Fusion,audio,42,Q1,Q2,13
+tvt_40_30_30,1,Weighted Average Fusion,audio,42,Q1,Q3,3
+tvt_40_30_30,1,Weighted Average Fusion,audio,42,Q1,Q4,13
+tvt_40_30_30,1,Weighted Average Fusion,audio,42,Q2,Q1,39
+tvt_40_30_30,1,Weighted Average Fusion,audio,42,Q2,Q2,155
+tvt_40_30_30,1,Weighted Average Fusion,audio,42,Q2,Q3,3
+tvt_40_30_30,1,Weighted Average Fusion,audio,42,Q2,Q4,1
+tvt_40_30_30,1,Weighted Average Fusion,audio,42,Q3,Q1,20
+tvt_40_30_30,1,Weighted Average Fusion,audio,42,Q3,Q2,6
+tvt_40_30_30,1,Weighted Average Fusion,audio,42,Q3,Q3,43
+tvt_40_30_30,1,Weighted Average Fusion,audio,42,Q3,Q4,78
+tvt_40_30_30,1,Weighted Average Fusion,audio,42,Q4,Q1,20
+tvt_40_30_30,1,Weighted Average Fusion,audio,42,Q4,Q2,2
+tvt_40_30_30,1,Weighted Average Fusion,audio,42,Q4,Q3,26
+tvt_40_30_30,1,Weighted Average Fusion,audio,42,Q4,Q4,103
+tvt_40_30_30,1,Weighted Average Fusion,text,42,Q1,Q1,115
+tvt_40_30_30,1,Weighted Average Fusion,text,42,Q1,Q2,4
+tvt_40_30_30,1,Weighted Average Fusion,text,42,Q1,Q3,14
+tvt_40_30_30,1,Weighted Average Fusion,text,42,Q1,Q4,21
+tvt_40_30_30,1,Weighted Average Fusion,text,42,Q2,Q1,9
+tvt_40_30_30,1,Weighted Average Fusion,text,42,Q2,Q2,179
+tvt_40_30_30,1,Weighted Average Fusion,text,42,Q2,Q3,10
+tvt_40_30_30,1,Weighted Average Fusion,text,42,Q2,Q4,0
+tvt_40_30_30,1,Weighted Average Fusion,text,42,Q3,Q1,5
+tvt_40_30_30,1,Weighted Average Fusion,text,42,Q3,Q2,15
+tvt_40_30_30,1,Weighted Average Fusion,text,42,Q3,Q3,110
+tvt_40_30_30,1,Weighted Average Fusion,text,42,Q3,Q4,17
+tvt_40_30_30,1,Weighted Average Fusion,text,42,Q4,Q1,31
+tvt_40_30_30,1,Weighted Average Fusion,text,42,Q4,Q2,5
+tvt_40_30_30,1,Weighted Average Fusion,text,42,Q4,Q3,28
+tvt_40_30_30,1,Weighted Average Fusion,text,42,Q4,Q4,87
+tvt_40_30_30,1,Weighted Average Fusion,bimodal,42,Q1,Q1,136
+tvt_40_30_30,1,Weighted Average Fusion,bimodal,42,Q1,Q2,5
+tvt_40_30_30,1,Weighted Average Fusion,bimodal,42,Q1,Q3,4
+tvt_40_30_30,1,Weighted Average Fusion,bimodal,42,Q1,Q4,9
+tvt_40_30_30,1,Weighted Average Fusion,bimodal,42,Q2,Q1,11
+tvt_40_30_30,1,Weighted Average Fusion,bimodal,42,Q2,Q2,181
+tvt_40_30_30,1,Weighted Average Fusion,bimodal,42,Q2,Q3,6
+tvt_40_30_30,1,Weighted Average Fusion,bimodal,42,Q2,Q4,0
+tvt_40_30_30,1,Weighted Average Fusion,bimodal,42,Q3,Q1,14
+tvt_40_30_30,1,Weighted Average Fusion,bimodal,42,Q3,Q2,9
+tvt_40_30_30,1,Weighted Average Fusion,bimodal,42,Q3,Q3,99
+tvt_40_30_30,1,Weighted Average Fusion,bimodal,42,Q3,Q4,25
+tvt_40_30_30,1,Weighted Average Fusion,bimodal,42,Q4,Q1,26
+tvt_40_30_30,1,Weighted Average Fusion,bimodal,42,Q4,Q2,3
+tvt_40_30_30,1,Weighted Average Fusion,bimodal,42,Q4,Q3,11
+tvt_40_30_30,1,Weighted Average Fusion,bimodal,42,Q4,Q4,111
+tvt_40_30_30,1,Gated Multimodal Fusion,audio,42,Q1,Q1,118
+tvt_40_30_30,1,Gated Multimodal Fusion,audio,42,Q1,Q2,20
+tvt_40_30_30,1,Gated Multimodal Fusion,audio,42,Q1,Q3,6
+tvt_40_30_30,1,Gated Multimodal Fusion,audio,42,Q1,Q4,10
+tvt_40_30_30,1,Gated Multimodal Fusion,audio,42,Q2,Q1,24
+tvt_40_30_30,1,Gated Multimodal Fusion,audio,42,Q2,Q2,168
+tvt_40_30_30,1,Gated Multimodal Fusion,audio,42,Q2,Q3,3
+tvt_40_30_30,1,Gated Multimodal Fusion,audio,42,Q2,Q4,3
+tvt_40_30_30,1,Gated Multimodal Fusion,audio,42,Q3,Q1,18
+tvt_40_30_30,1,Gated Multimodal Fusion,audio,42,Q3,Q2,10
+tvt_40_30_30,1,Gated Multimodal Fusion,audio,42,Q3,Q3,53
+tvt_40_30_30,1,Gated Multimodal Fusion,audio,42,Q3,Q4,66
+tvt_40_30_30,1,Gated Multimodal Fusion,audio,42,Q4,Q1,24
+tvt_40_30_30,1,Gated Multimodal Fusion,audio,42,Q4,Q2,1
+tvt_40_30_30,1,Gated Multimodal Fusion,audio,42,Q4,Q3,33
+tvt_40_30_30,1,Gated Multimodal Fusion,audio,42,Q4,Q4,93
+tvt_40_30_30,1,Gated Multimodal Fusion,text,42,Q1,Q1,127
+tvt_40_30_30,1,Gated Multimodal Fusion,text,42,Q1,Q2,6
+tvt_40_30_30,1,Gated Multimodal Fusion,text,42,Q1,Q3,5
+tvt_40_30_30,1,Gated Multimodal Fusion,text,42,Q1,Q4,16
+tvt_40_30_30,1,Gated Multimodal Fusion,text,42,Q2,Q1,9
+tvt_40_30_30,1,Gated Multimodal Fusion,text,42,Q2,Q2,185
+tvt_40_30_30,1,Gated Multimodal Fusion,text,42,Q2,Q3,4
+tvt_40_30_30,1,Gated Multimodal Fusion,text,42,Q2,Q4,0
+tvt_40_30_30,1,Gated Multimodal Fusion,text,42,Q3,Q1,15
+tvt_40_30_30,1,Gated Multimodal Fusion,text,42,Q3,Q2,24
+tvt_40_30_30,1,Gated Multimodal Fusion,text,42,Q3,Q3,84
+tvt_40_30_30,1,Gated Multimodal Fusion,text,42,Q3,Q4,24
+tvt_40_30_30,1,Gated Multimodal Fusion,text,42,Q4,Q1,38
+tvt_40_30_30,1,Gated Multimodal Fusion,text,42,Q4,Q2,6
+tvt_40_30_30,1,Gated Multimodal Fusion,text,42,Q4,Q3,9
+tvt_40_30_30,1,Gated Multimodal Fusion,text,42,Q4,Q4,98
+tvt_40_30_30,1,Gated Multimodal Fusion,bimodal,42,Q1,Q1,133
+tvt_40_30_30,1,Gated Multimodal Fusion,bimodal,42,Q1,Q2,3
+tvt_40_30_30,1,Gated Multimodal Fusion,bimodal,42,Q1,Q3,2
+tvt_40_30_30,1,Gated Multimodal Fusion,bimodal,42,Q1,Q4,16
+tvt_40_30_30,1,Gated Multimodal Fusion,bimodal,42,Q2,Q1,14
+tvt_40_30_30,1,Gated Multimodal Fusion,bimodal,42,Q2,Q2,181
+tvt_40_30_30,1,Gated Multimodal Fusion,bimodal,42,Q2,Q3,3
+tvt_40_30_30,1,Gated Multimodal Fusion,bimodal,42,Q2,Q4,0
+tvt_40_30_30,1,Gated Multimodal Fusion,bimodal,42,Q3,Q1,8
+tvt_40_30_30,1,Gated Multimodal Fusion,bimodal,42,Q3,Q2,8
+tvt_40_30_30,1,Gated Multimodal Fusion,bimodal,42,Q3,Q3,99
+tvt_40_30_30,1,Gated Multimodal Fusion,bimodal,42,Q3,Q4,32
+tvt_40_30_30,1,Gated Multimodal Fusion,bimodal,42,Q4,Q1,18
+tvt_40_30_30,1,Gated Multimodal Fusion,bimodal,42,Q4,Q2,3
+tvt_40_30_30,1,Gated Multimodal Fusion,bimodal,42,Q4,Q3,9
+tvt_40_30_30,1,Gated Multimodal Fusion,bimodal,42,Q4,Q4,121
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),audio,42,Q1,Q1,124
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),audio,42,Q1,Q2,18
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),audio,42,Q1,Q3,3
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),audio,42,Q1,Q4,10
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),audio,42,Q2,Q1,24
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),audio,42,Q2,Q2,168
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),audio,42,Q2,Q3,5
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),audio,42,Q2,Q4,1
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),audio,42,Q3,Q1,8
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),audio,42,Q3,Q2,8
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),audio,42,Q3,Q3,99
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),audio,42,Q3,Q4,32
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),audio,42,Q4,Q1,19
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),audio,42,Q4,Q2,1
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),audio,42,Q4,Q3,70
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),audio,42,Q4,Q4,62
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),text,42,Q1,Q1,113
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),text,42,Q1,Q2,6
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),text,42,Q1,Q3,15
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),text,42,Q1,Q4,21
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),text,42,Q2,Q1,8
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),text,42,Q2,Q2,174
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),text,42,Q2,Q3,15
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),text,42,Q2,Q4,1
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),text,42,Q3,Q1,7
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),text,42,Q3,Q2,16
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),text,42,Q3,Q3,107
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),text,42,Q3,Q4,17
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),text,42,Q4,Q1,32
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),text,42,Q4,Q2,3
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),text,42,Q4,Q3,26
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),text,42,Q4,Q4,91
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q1,Q1,134
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q1,Q2,7
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q1,Q3,3
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q1,Q4,11
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q2,Q1,8
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q2,Q2,184
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q2,Q3,4
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q2,Q4,2
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q3,Q1,5
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q3,Q2,6
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q3,Q3,114
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q3,Q4,22
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q4,Q1,18
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q4,Q2,1
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q4,Q3,19
+tvt_40_30_30,2,MERT + RoBERTa (Early Fusion),bimodal,42,Q4,Q4,114
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),audio,42,Q1,Q1,112
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),audio,42,Q1,Q2,29
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),audio,42,Q1,Q3,4
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),audio,42,Q1,Q4,10
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),audio,42,Q2,Q1,12
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),audio,42,Q2,Q2,183
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),audio,42,Q2,Q3,3
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),audio,42,Q2,Q4,0
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),audio,42,Q3,Q1,28
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),audio,42,Q3,Q2,13
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),audio,42,Q3,Q3,59
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),audio,42,Q3,Q4,47
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),audio,42,Q4,Q1,47
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),audio,42,Q4,Q2,5
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),audio,42,Q4,Q3,44
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),audio,42,Q4,Q4,56
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),text,42,Q1,Q1,114
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),text,42,Q1,Q2,5
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),text,42,Q1,Q3,10
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),text,42,Q1,Q4,26
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),text,42,Q2,Q1,14
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),text,42,Q2,Q2,166
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),text,42,Q2,Q3,17
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),text,42,Q2,Q4,1
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),text,42,Q3,Q1,12
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),text,42,Q3,Q2,15
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),text,42,Q3,Q3,81
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),text,42,Q3,Q4,39
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),text,42,Q4,Q1,29
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),text,42,Q4,Q2,4
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),text,42,Q4,Q3,14
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),text,42,Q4,Q4,105
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q1,Q1,133
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q1,Q2,9
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q1,Q3,3
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q1,Q4,10
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q2,Q1,9
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q2,Q2,187
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q2,Q3,0
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q2,Q4,2
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q3,Q1,10
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q3,Q2,12
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q3,Q3,82
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q3,Q4,43
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q4,Q1,34
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q4,Q2,5
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q4,Q3,10
+tvt_40_30_30,2,MoodNet-3 (CNN Concatenation),bimodal,42,Q4,Q4,103
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),audio,42,Q1,Q1,118
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),audio,42,Q1,Q2,18
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),audio,42,Q1,Q3,8
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),audio,42,Q1,Q4,11
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),audio,42,Q2,Q1,12
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),audio,42,Q2,Q2,179
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),audio,42,Q2,Q3,7
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),audio,42,Q2,Q4,0
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),audio,42,Q3,Q1,4
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),audio,42,Q3,Q2,10
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),audio,42,Q3,Q3,105
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),audio,42,Q3,Q4,28
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),audio,42,Q4,Q1,18
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),audio,42,Q4,Q2,1
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),audio,42,Q4,Q3,77
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),audio,42,Q4,Q4,56
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),text,42,Q1,Q1,121
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),text,42,Q1,Q2,10
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),text,42,Q1,Q3,11
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),text,42,Q1,Q4,13
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),text,42,Q2,Q1,7
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),text,42,Q2,Q2,184
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),text,42,Q2,Q3,5
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),text,42,Q2,Q4,2
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),text,42,Q3,Q1,13
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),text,42,Q3,Q2,18
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),text,42,Q3,Q3,100
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),text,42,Q3,Q4,16
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),text,42,Q4,Q1,37
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),text,42,Q4,Q2,4
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),text,42,Q4,Q3,21
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),text,42,Q4,Q4,90
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),bimodal,42,Q1,Q1,131
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),bimodal,42,Q1,Q2,13
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),bimodal,42,Q1,Q3,6
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),bimodal,42,Q1,Q4,5
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),bimodal,42,Q2,Q1,5
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),bimodal,42,Q2,Q2,190
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),bimodal,42,Q2,Q3,1
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),bimodal,42,Q2,Q4,2
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),bimodal,42,Q3,Q1,4
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),bimodal,42,Q3,Q2,13
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),bimodal,42,Q3,Q3,117
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),bimodal,42,Q3,Q4,13
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),bimodal,42,Q4,Q1,22
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),bimodal,42,Q4,Q2,3
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),bimodal,42,Q4,Q3,27
+tvt_40_30_30,2,CRNN BiGRU (Late Fusion),bimodal,42,Q4,Q4,100
+tvt_40_30_30,2,Joint Transformer (Early Fusion),audio,42,Q1,Q1,108
+tvt_40_30_30,2,Joint Transformer (Early Fusion),audio,42,Q1,Q2,24
+tvt_40_30_30,2,Joint Transformer (Early Fusion),audio,42,Q1,Q3,5
+tvt_40_30_30,2,Joint Transformer (Early Fusion),audio,42,Q1,Q4,18
+tvt_40_30_30,2,Joint Transformer (Early Fusion),audio,42,Q2,Q1,20
+tvt_40_30_30,2,Joint Transformer (Early Fusion),audio,42,Q2,Q2,172
+tvt_40_30_30,2,Joint Transformer (Early Fusion),audio,42,Q2,Q3,6
+tvt_40_30_30,2,Joint Transformer (Early Fusion),audio,42,Q2,Q4,0
+tvt_40_30_30,2,Joint Transformer (Early Fusion),audio,42,Q3,Q1,4
+tvt_40_30_30,2,Joint Transformer (Early Fusion),audio,42,Q3,Q2,8
+tvt_40_30_30,2,Joint Transformer (Early Fusion),audio,42,Q3,Q3,74
+tvt_40_30_30,2,Joint Transformer (Early Fusion),audio,42,Q3,Q4,61
+tvt_40_30_30,2,Joint Transformer (Early Fusion),audio,42,Q4,Q1,15
+tvt_40_30_30,2,Joint Transformer (Early Fusion),audio,42,Q4,Q2,1
+tvt_40_30_30,2,Joint Transformer (Early Fusion),audio,42,Q4,Q3,53
+tvt_40_30_30,2,Joint Transformer (Early Fusion),audio,42,Q4,Q4,83
+tvt_40_30_30,2,Joint Transformer (Early Fusion),text,42,Q1,Q1,109
+tvt_40_30_30,2,Joint Transformer (Early Fusion),text,42,Q1,Q2,10
+tvt_40_30_30,2,Joint Transformer (Early Fusion),text,42,Q1,Q3,15
+tvt_40_30_30,2,Joint Transformer (Early Fusion),text,42,Q1,Q4,21
+tvt_40_30_30,2,Joint Transformer (Early Fusion),text,42,Q2,Q1,9
+tvt_40_30_30,2,Joint Transformer (Early Fusion),text,42,Q2,Q2,178
+tvt_40_30_30,2,Joint Transformer (Early Fusion),text,42,Q2,Q3,9
+tvt_40_30_30,2,Joint Transformer (Early Fusion),text,42,Q2,Q4,2
+tvt_40_30_30,2,Joint Transformer (Early Fusion),text,42,Q3,Q1,4
+tvt_40_30_30,2,Joint Transformer (Early Fusion),text,42,Q3,Q2,16
+tvt_40_30_30,2,Joint Transformer (Early Fusion),text,42,Q3,Q3,102
+tvt_40_30_30,2,Joint Transformer (Early Fusion),text,42,Q3,Q4,25
+tvt_40_30_30,2,Joint Transformer (Early Fusion),text,42,Q4,Q1,29
+tvt_40_30_30,2,Joint Transformer (Early Fusion),text,42,Q4,Q2,5
+tvt_40_30_30,2,Joint Transformer (Early Fusion),text,42,Q4,Q3,24
+tvt_40_30_30,2,Joint Transformer (Early Fusion),text,42,Q4,Q4,94
+tvt_40_30_30,2,Joint Transformer (Early Fusion),bimodal,42,Q1,Q1,134
+tvt_40_30_30,2,Joint Transformer (Early Fusion),bimodal,42,Q1,Q2,10
+tvt_40_30_30,2,Joint Transformer (Early Fusion),bimodal,42,Q1,Q3,4
+tvt_40_30_30,2,Joint Transformer (Early Fusion),bimodal,42,Q1,Q4,7
+tvt_40_30_30,2,Joint Transformer (Early Fusion),bimodal,42,Q2,Q1,7
+tvt_40_30_30,2,Joint Transformer (Early Fusion),bimodal,42,Q2,Q2,187
+tvt_40_30_30,2,Joint Transformer (Early Fusion),bimodal,42,Q2,Q3,2
+tvt_40_30_30,2,Joint Transformer (Early Fusion),bimodal,42,Q2,Q4,2
+tvt_40_30_30,2,Joint Transformer (Early Fusion),bimodal,42,Q3,Q1,5
+tvt_40_30_30,2,Joint Transformer (Early Fusion),bimodal,42,Q3,Q2,8
+tvt_40_30_30,2,Joint Transformer (Early Fusion),bimodal,42,Q3,Q3,119
+tvt_40_30_30,2,Joint Transformer (Early Fusion),bimodal,42,Q3,Q4,15
+tvt_40_30_30,2,Joint Transformer (Early Fusion),bimodal,42,Q4,Q1,31
+tvt_40_30_30,2,Joint Transformer (Early Fusion),bimodal,42,Q4,Q2,1
+tvt_40_30_30,2,Joint Transformer (Early Fusion),bimodal,42,Q4,Q3,29
+tvt_40_30_30,2,Joint Transformer (Early Fusion),bimodal,42,Q4,Q4,91
+tvt_40_30_30,2,Weighted Average Fusion,audio,42,Q1,Q1,112
+tvt_40_30_30,2,Weighted Average Fusion,audio,42,Q1,Q2,27
+tvt_40_30_30,2,Weighted Average Fusion,audio,42,Q1,Q3,1
+tvt_40_30_30,2,Weighted Average Fusion,audio,42,Q1,Q4,15
+tvt_40_30_30,2,Weighted Average Fusion,audio,42,Q2,Q1,28
+tvt_40_30_30,2,Weighted Average Fusion,audio,42,Q2,Q2,166
+tvt_40_30_30,2,Weighted Average Fusion,audio,42,Q2,Q3,2
+tvt_40_30_30,2,Weighted Average Fusion,audio,42,Q2,Q4,2
+tvt_40_30_30,2,Weighted Average Fusion,audio,42,Q3,Q1,14
+tvt_40_30_30,2,Weighted Average Fusion,audio,42,Q3,Q2,6
+tvt_40_30_30,2,Weighted Average Fusion,audio,42,Q3,Q3,78
+tvt_40_30_30,2,Weighted Average Fusion,audio,42,Q3,Q4,49
+tvt_40_30_30,2,Weighted Average Fusion,audio,42,Q4,Q1,22
+tvt_40_30_30,2,Weighted Average Fusion,audio,42,Q4,Q2,0
+tvt_40_30_30,2,Weighted Average Fusion,audio,42,Q4,Q3,56
+tvt_40_30_30,2,Weighted Average Fusion,audio,42,Q4,Q4,74
+tvt_40_30_30,2,Weighted Average Fusion,text,42,Q1,Q1,118
+tvt_40_30_30,2,Weighted Average Fusion,text,42,Q1,Q2,5
+tvt_40_30_30,2,Weighted Average Fusion,text,42,Q1,Q3,15
+tvt_40_30_30,2,Weighted Average Fusion,text,42,Q1,Q4,17
+tvt_40_30_30,2,Weighted Average Fusion,text,42,Q2,Q1,8
+tvt_40_30_30,2,Weighted Average Fusion,text,42,Q2,Q2,174
+tvt_40_30_30,2,Weighted Average Fusion,text,42,Q2,Q3,15
+tvt_40_30_30,2,Weighted Average Fusion,text,42,Q2,Q4,1
+tvt_40_30_30,2,Weighted Average Fusion,text,42,Q3,Q1,9
+tvt_40_30_30,2,Weighted Average Fusion,text,42,Q3,Q2,16
+tvt_40_30_30,2,Weighted Average Fusion,text,42,Q3,Q3,108
+tvt_40_30_30,2,Weighted Average Fusion,text,42,Q3,Q4,14
+tvt_40_30_30,2,Weighted Average Fusion,text,42,Q4,Q1,28
+tvt_40_30_30,2,Weighted Average Fusion,text,42,Q4,Q2,2
+tvt_40_30_30,2,Weighted Average Fusion,text,42,Q4,Q3,26
+tvt_40_30_30,2,Weighted Average Fusion,text,42,Q4,Q4,96
+tvt_40_30_30,2,Weighted Average Fusion,bimodal,42,Q1,Q1,138
+tvt_40_30_30,2,Weighted Average Fusion,bimodal,42,Q1,Q2,6
+tvt_40_30_30,2,Weighted Average Fusion,bimodal,42,Q1,Q3,2
+tvt_40_30_30,2,Weighted Average Fusion,bimodal,42,Q1,Q4,9
+tvt_40_30_30,2,Weighted Average Fusion,bimodal,42,Q2,Q1,11
+tvt_40_30_30,2,Weighted Average Fusion,bimodal,42,Q2,Q2,184
+tvt_40_30_30,2,Weighted Average Fusion,bimodal,42,Q2,Q3,2
+tvt_40_30_30,2,Weighted Average Fusion,bimodal,42,Q2,Q4,1
+tvt_40_30_30,2,Weighted Average Fusion,bimodal,42,Q3,Q1,7
+tvt_40_30_30,2,Weighted Average Fusion,bimodal,42,Q3,Q2,9
+tvt_40_30_30,2,Weighted Average Fusion,bimodal,42,Q3,Q3,104
+tvt_40_30_30,2,Weighted Average Fusion,bimodal,42,Q3,Q4,27
+tvt_40_30_30,2,Weighted Average Fusion,bimodal,42,Q4,Q1,22
+tvt_40_30_30,2,Weighted Average Fusion,bimodal,42,Q4,Q2,1
+tvt_40_30_30,2,Weighted Average Fusion,bimodal,42,Q4,Q3,23
+tvt_40_30_30,2,Weighted Average Fusion,bimodal,42,Q4,Q4,106
+tvt_40_30_30,2,Gated Multimodal Fusion,audio,42,Q1,Q1,109
+tvt_40_30_30,2,Gated Multimodal Fusion,audio,42,Q1,Q2,26
+tvt_40_30_30,2,Gated Multimodal Fusion,audio,42,Q1,Q3,4
+tvt_40_30_30,2,Gated Multimodal Fusion,audio,42,Q1,Q4,16
+tvt_40_30_30,2,Gated Multimodal Fusion,audio,42,Q2,Q1,22
+tvt_40_30_30,2,Gated Multimodal Fusion,audio,42,Q2,Q2,168
+tvt_40_30_30,2,Gated Multimodal Fusion,audio,42,Q2,Q3,5
+tvt_40_30_30,2,Gated Multimodal Fusion,audio,42,Q2,Q4,3
+tvt_40_30_30,2,Gated Multimodal Fusion,audio,42,Q3,Q1,5
+tvt_40_30_30,2,Gated Multimodal Fusion,audio,42,Q3,Q2,8
+tvt_40_30_30,2,Gated Multimodal Fusion,audio,42,Q3,Q3,95
+tvt_40_30_30,2,Gated Multimodal Fusion,audio,42,Q3,Q4,39
+tvt_40_30_30,2,Gated Multimodal Fusion,audio,42,Q4,Q1,17
+tvt_40_30_30,2,Gated Multimodal Fusion,audio,42,Q4,Q2,1
+tvt_40_30_30,2,Gated Multimodal Fusion,audio,42,Q4,Q3,70
+tvt_40_30_30,2,Gated Multimodal Fusion,audio,42,Q4,Q4,64
+tvt_40_30_30,2,Gated Multimodal Fusion,text,42,Q1,Q1,114
+tvt_40_30_30,2,Gated Multimodal Fusion,text,42,Q1,Q2,5
+tvt_40_30_30,2,Gated Multimodal Fusion,text,42,Q1,Q3,15
+tvt_40_30_30,2,Gated Multimodal Fusion,text,42,Q1,Q4,21
+tvt_40_30_30,2,Gated Multimodal Fusion,text,42,Q2,Q1,10
+tvt_40_30_30,2,Gated Multimodal Fusion,text,42,Q2,Q2,168
+tvt_40_30_30,2,Gated Multimodal Fusion,text,42,Q2,Q3,19
+tvt_40_30_30,2,Gated Multimodal Fusion,text,42,Q2,Q4,1
+tvt_40_30_30,2,Gated Multimodal Fusion,text,42,Q3,Q1,9
+tvt_40_30_30,2,Gated Multimodal Fusion,text,42,Q3,Q2,11
+tvt_40_30_30,2,Gated Multimodal Fusion,text,42,Q3,Q3,108
+tvt_40_30_30,2,Gated Multimodal Fusion,text,42,Q3,Q4,19
+tvt_40_30_30,2,Gated Multimodal Fusion,text,42,Q4,Q1,34
+tvt_40_30_30,2,Gated Multimodal Fusion,text,42,Q4,Q2,2
+tvt_40_30_30,2,Gated Multimodal Fusion,text,42,Q4,Q3,22
+tvt_40_30_30,2,Gated Multimodal Fusion,text,42,Q4,Q4,94
+tvt_40_30_30,2,Gated Multimodal Fusion,bimodal,42,Q1,Q1,129
+tvt_40_30_30,2,Gated Multimodal Fusion,bimodal,42,Q1,Q2,10
+tvt_40_30_30,2,Gated Multimodal Fusion,bimodal,42,Q1,Q3,9
+tvt_40_30_30,2,Gated Multimodal Fusion,bimodal,42,Q1,Q4,7
+tvt_40_30_30,2,Gated Multimodal Fusion,bimodal,42,Q2,Q1,7
+tvt_40_30_30,2,Gated Multimodal Fusion,bimodal,42,Q2,Q2,185
+tvt_40_30_30,2,Gated Multimodal Fusion,bimodal,42,Q2,Q3,4
+tvt_40_30_30,2,Gated Multimodal Fusion,bimodal,42,Q2,Q4,2
+tvt_40_30_30,2,Gated Multimodal Fusion,bimodal,42,Q3,Q1,5
+tvt_40_30_30,2,Gated Multimodal Fusion,bimodal,42,Q3,Q2,8
+tvt_40_30_30,2,Gated Multimodal Fusion,bimodal,42,Q3,Q3,108
+tvt_40_30_30,2,Gated Multimodal Fusion,bimodal,42,Q3,Q4,26
+tvt_40_30_30,2,Gated Multimodal Fusion,bimodal,42,Q4,Q1,23
+tvt_40_30_30,2,Gated Multimodal Fusion,bimodal,42,Q4,Q2,1
+tvt_40_30_30,2,Gated Multimodal Fusion,bimodal,42,Q4,Q3,25
+tvt_40_30_30,2,Gated Multimodal Fusion,bimodal,42,Q4,Q4,103
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),audio,42,Q1,Q1,119
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),audio,42,Q1,Q2,19
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),audio,42,Q1,Q3,8
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),audio,42,Q1,Q4,11
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),audio,42,Q2,Q1,12
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),audio,42,Q2,Q2,177
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),audio,42,Q2,Q3,8
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),audio,42,Q2,Q4,1
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),audio,42,Q3,Q1,11
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),audio,42,Q3,Q2,5
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),audio,42,Q3,Q3,70
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),audio,42,Q3,Q4,61
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),audio,42,Q4,Q1,20
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),audio,42,Q4,Q2,0
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),audio,42,Q4,Q3,67
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),audio,42,Q4,Q4,64
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),text,42,Q1,Q1,122
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),text,42,Q1,Q2,6
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),text,42,Q1,Q3,10
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),text,42,Q1,Q4,19
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),text,42,Q2,Q1,6
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),text,42,Q2,Q2,181
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),text,42,Q2,Q3,10
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),text,42,Q2,Q4,1
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),text,42,Q3,Q1,14
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),text,42,Q3,Q2,15
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),text,42,Q3,Q3,103
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),text,42,Q3,Q4,15
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),text,42,Q4,Q1,38
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),text,42,Q4,Q2,7
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),text,42,Q4,Q3,18
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),text,42,Q4,Q4,88
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q1,Q1,137
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q1,Q2,10
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q1,Q3,1
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q1,Q4,9
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q2,Q1,3
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q2,Q2,192
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q2,Q3,3
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q2,Q4,0
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q3,Q1,6
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q3,Q2,7
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q3,Q3,123
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q3,Q4,11
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q4,Q1,35
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q4,Q2,4
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q4,Q3,26
+tvt_40_30_30,3,MERT + RoBERTa (Early Fusion),bimodal,42,Q4,Q4,86
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),audio,42,Q1,Q1,124
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),audio,42,Q1,Q2,32
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),audio,42,Q1,Q3,0
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),audio,42,Q1,Q4,1
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),audio,42,Q2,Q1,10
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),audio,42,Q2,Q2,187
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),audio,42,Q2,Q3,0
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),audio,42,Q2,Q4,1
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),audio,42,Q3,Q1,40
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),audio,42,Q3,Q2,11
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),audio,42,Q3,Q3,19
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),audio,42,Q3,Q4,77
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),audio,42,Q4,Q1,56
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),audio,42,Q4,Q2,2
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),audio,42,Q4,Q3,22
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),audio,42,Q4,Q4,71
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),text,42,Q1,Q1,107
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),text,42,Q1,Q2,6
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),text,42,Q1,Q3,11
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),text,42,Q1,Q4,33
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),text,42,Q2,Q1,8
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),text,42,Q2,Q2,170
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),text,42,Q2,Q3,19
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),text,42,Q2,Q4,1
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),text,42,Q3,Q1,3
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),text,42,Q3,Q2,5
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),text,42,Q3,Q3,99
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),text,42,Q3,Q4,40
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),text,42,Q4,Q1,21
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),text,42,Q4,Q2,2
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),text,42,Q4,Q3,20
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),text,42,Q4,Q4,108
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q1,Q1,128
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q1,Q2,16
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q1,Q3,0
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q1,Q4,13
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q2,Q1,9
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q2,Q2,186
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q2,Q3,2
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q2,Q4,1
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q3,Q1,5
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q3,Q2,20
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q3,Q3,87
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q3,Q4,35
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q4,Q1,28
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q4,Q2,3
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q4,Q3,25
+tvt_40_30_30,3,MoodNet-3 (CNN Concatenation),bimodal,42,Q4,Q4,95
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),audio,42,Q1,Q1,119
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),audio,42,Q1,Q2,23
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),audio,42,Q1,Q3,6
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),audio,42,Q1,Q4,9
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),audio,42,Q2,Q1,11
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),audio,42,Q2,Q2,181
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),audio,42,Q2,Q3,6
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),audio,42,Q2,Q4,0
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),audio,42,Q3,Q1,16
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),audio,42,Q3,Q2,8
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),audio,42,Q3,Q3,54
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),audio,42,Q3,Q4,69
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),audio,42,Q4,Q1,14
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),audio,42,Q4,Q2,3
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),audio,42,Q4,Q3,52
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),audio,42,Q4,Q4,82
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),text,42,Q1,Q1,117
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),text,42,Q1,Q2,5
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),text,42,Q1,Q3,14
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),text,42,Q1,Q4,21
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),text,42,Q2,Q1,7
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),text,42,Q2,Q2,181
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),text,42,Q2,Q3,9
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),text,42,Q2,Q4,1
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),text,42,Q3,Q1,11
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),text,42,Q3,Q2,14
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),text,42,Q3,Q3,106
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),text,42,Q3,Q4,16
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),text,42,Q4,Q1,37
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),text,42,Q4,Q2,7
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),text,42,Q4,Q3,18
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),text,42,Q4,Q4,89
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),bimodal,42,Q1,Q1,133
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),bimodal,42,Q1,Q2,10
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),bimodal,42,Q1,Q3,2
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),bimodal,42,Q1,Q4,12
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),bimodal,42,Q2,Q1,3
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),bimodal,42,Q2,Q2,193
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),bimodal,42,Q2,Q3,2
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),bimodal,42,Q2,Q4,0
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),bimodal,42,Q3,Q1,4
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),bimodal,42,Q3,Q2,9
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),bimodal,42,Q3,Q3,111
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),bimodal,42,Q3,Q4,23
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),bimodal,42,Q4,Q1,21
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),bimodal,42,Q4,Q2,3
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),bimodal,42,Q4,Q3,14
+tvt_40_30_30,3,CRNN BiGRU (Late Fusion),bimodal,42,Q4,Q4,113
+tvt_40_30_30,3,Joint Transformer (Early Fusion),audio,42,Q1,Q1,121
+tvt_40_30_30,3,Joint Transformer (Early Fusion),audio,42,Q1,Q2,22
+tvt_40_30_30,3,Joint Transformer (Early Fusion),audio,42,Q1,Q3,4
+tvt_40_30_30,3,Joint Transformer (Early Fusion),audio,42,Q1,Q4,10
+tvt_40_30_30,3,Joint Transformer (Early Fusion),audio,42,Q2,Q1,16
+tvt_40_30_30,3,Joint Transformer (Early Fusion),audio,42,Q2,Q2,175
+tvt_40_30_30,3,Joint Transformer (Early Fusion),audio,42,Q2,Q3,7
+tvt_40_30_30,3,Joint Transformer (Early Fusion),audio,42,Q2,Q4,0
+tvt_40_30_30,3,Joint Transformer (Early Fusion),audio,42,Q3,Q1,22
+tvt_40_30_30,3,Joint Transformer (Early Fusion),audio,42,Q3,Q2,4
+tvt_40_30_30,3,Joint Transformer (Early Fusion),audio,42,Q3,Q3,80
+tvt_40_30_30,3,Joint Transformer (Early Fusion),audio,42,Q3,Q4,41
+tvt_40_30_30,3,Joint Transformer (Early Fusion),audio,42,Q4,Q1,25
+tvt_40_30_30,3,Joint Transformer (Early Fusion),audio,42,Q4,Q2,1
+tvt_40_30_30,3,Joint Transformer (Early Fusion),audio,42,Q4,Q3,73
+tvt_40_30_30,3,Joint Transformer (Early Fusion),audio,42,Q4,Q4,52
+tvt_40_30_30,3,Joint Transformer (Early Fusion),text,42,Q1,Q1,116
+tvt_40_30_30,3,Joint Transformer (Early Fusion),text,42,Q1,Q2,6
+tvt_40_30_30,3,Joint Transformer (Early Fusion),text,42,Q1,Q3,12
+tvt_40_30_30,3,Joint Transformer (Early Fusion),text,42,Q1,Q4,23
+tvt_40_30_30,3,Joint Transformer (Early Fusion),text,42,Q2,Q1,7
+tvt_40_30_30,3,Joint Transformer (Early Fusion),text,42,Q2,Q2,175
+tvt_40_30_30,3,Joint Transformer (Early Fusion),text,42,Q2,Q3,15
+tvt_40_30_30,3,Joint Transformer (Early Fusion),text,42,Q2,Q4,1
+tvt_40_30_30,3,Joint Transformer (Early Fusion),text,42,Q3,Q1,11
+tvt_40_30_30,3,Joint Transformer (Early Fusion),text,42,Q3,Q2,9
+tvt_40_30_30,3,Joint Transformer (Early Fusion),text,42,Q3,Q3,112
+tvt_40_30_30,3,Joint Transformer (Early Fusion),text,42,Q3,Q4,15
+tvt_40_30_30,3,Joint Transformer (Early Fusion),text,42,Q4,Q1,38
+tvt_40_30_30,3,Joint Transformer (Early Fusion),text,42,Q4,Q2,7
+tvt_40_30_30,3,Joint Transformer (Early Fusion),text,42,Q4,Q3,18
+tvt_40_30_30,3,Joint Transformer (Early Fusion),text,42,Q4,Q4,88
+tvt_40_30_30,3,Joint Transformer (Early Fusion),bimodal,42,Q1,Q1,141
+tvt_40_30_30,3,Joint Transformer (Early Fusion),bimodal,42,Q1,Q2,8
+tvt_40_30_30,3,Joint Transformer (Early Fusion),bimodal,42,Q1,Q3,4
+tvt_40_30_30,3,Joint Transformer (Early Fusion),bimodal,42,Q1,Q4,4
+tvt_40_30_30,3,Joint Transformer (Early Fusion),bimodal,42,Q2,Q1,3
+tvt_40_30_30,3,Joint Transformer (Early Fusion),bimodal,42,Q2,Q2,192
+tvt_40_30_30,3,Joint Transformer (Early Fusion),bimodal,42,Q2,Q3,3
+tvt_40_30_30,3,Joint Transformer (Early Fusion),bimodal,42,Q2,Q4,0
+tvt_40_30_30,3,Joint Transformer (Early Fusion),bimodal,42,Q3,Q1,8
+tvt_40_30_30,3,Joint Transformer (Early Fusion),bimodal,42,Q3,Q2,8
+tvt_40_30_30,3,Joint Transformer (Early Fusion),bimodal,42,Q3,Q3,121
+tvt_40_30_30,3,Joint Transformer (Early Fusion),bimodal,42,Q3,Q4,10
+tvt_40_30_30,3,Joint Transformer (Early Fusion),bimodal,42,Q4,Q1,30
+tvt_40_30_30,3,Joint Transformer (Early Fusion),bimodal,42,Q4,Q2,1
+tvt_40_30_30,3,Joint Transformer (Early Fusion),bimodal,42,Q4,Q3,39
+tvt_40_30_30,3,Joint Transformer (Early Fusion),bimodal,42,Q4,Q4,81
+tvt_40_30_30,3,Weighted Average Fusion,audio,42,Q1,Q1,114
+tvt_40_30_30,3,Weighted Average Fusion,audio,42,Q1,Q2,30
+tvt_40_30_30,3,Weighted Average Fusion,audio,42,Q1,Q3,2
+tvt_40_30_30,3,Weighted Average Fusion,audio,42,Q1,Q4,11
+tvt_40_30_30,3,Weighted Average Fusion,audio,42,Q2,Q1,12
+tvt_40_30_30,3,Weighted Average Fusion,audio,42,Q2,Q2,183
+tvt_40_30_30,3,Weighted Average Fusion,audio,42,Q2,Q3,3
+tvt_40_30_30,3,Weighted Average Fusion,audio,42,Q2,Q4,0
+tvt_40_30_30,3,Weighted Average Fusion,audio,42,Q3,Q1,15
+tvt_40_30_30,3,Weighted Average Fusion,audio,42,Q3,Q2,8
+tvt_40_30_30,3,Weighted Average Fusion,audio,42,Q3,Q3,65
+tvt_40_30_30,3,Weighted Average Fusion,audio,42,Q3,Q4,59
+tvt_40_30_30,3,Weighted Average Fusion,audio,42,Q4,Q1,28
+tvt_40_30_30,3,Weighted Average Fusion,audio,42,Q4,Q2,0
+tvt_40_30_30,3,Weighted Average Fusion,audio,42,Q4,Q3,64
+tvt_40_30_30,3,Weighted Average Fusion,audio,42,Q4,Q4,59
+tvt_40_30_30,3,Weighted Average Fusion,text,42,Q1,Q1,119
+tvt_40_30_30,3,Weighted Average Fusion,text,42,Q1,Q2,5
+tvt_40_30_30,3,Weighted Average Fusion,text,42,Q1,Q3,13
+tvt_40_30_30,3,Weighted Average Fusion,text,42,Q1,Q4,20
+tvt_40_30_30,3,Weighted Average Fusion,text,42,Q2,Q1,3
+tvt_40_30_30,3,Weighted Average Fusion,text,42,Q2,Q2,184
+tvt_40_30_30,3,Weighted Average Fusion,text,42,Q2,Q3,10
+tvt_40_30_30,3,Weighted Average Fusion,text,42,Q2,Q4,1
+tvt_40_30_30,3,Weighted Average Fusion,text,42,Q3,Q1,13
+tvt_40_30_30,3,Weighted Average Fusion,text,42,Q3,Q2,13
+tvt_40_30_30,3,Weighted Average Fusion,text,42,Q3,Q3,105
+tvt_40_30_30,3,Weighted Average Fusion,text,42,Q3,Q4,16
+tvt_40_30_30,3,Weighted Average Fusion,text,42,Q4,Q1,38
+tvt_40_30_30,3,Weighted Average Fusion,text,42,Q4,Q2,7
+tvt_40_30_30,3,Weighted Average Fusion,text,42,Q4,Q3,20
+tvt_40_30_30,3,Weighted Average Fusion,text,42,Q4,Q4,86
+tvt_40_30_30,3,Weighted Average Fusion,bimodal,42,Q1,Q1,132
+tvt_40_30_30,3,Weighted Average Fusion,bimodal,42,Q1,Q2,8
+tvt_40_30_30,3,Weighted Average Fusion,bimodal,42,Q1,Q3,2
+tvt_40_30_30,3,Weighted Average Fusion,bimodal,42,Q1,Q4,15
+tvt_40_30_30,3,Weighted Average Fusion,bimodal,42,Q2,Q1,3
+tvt_40_30_30,3,Weighted Average Fusion,bimodal,42,Q2,Q2,191
+tvt_40_30_30,3,Weighted Average Fusion,bimodal,42,Q2,Q3,4
+tvt_40_30_30,3,Weighted Average Fusion,bimodal,42,Q2,Q4,0
+tvt_40_30_30,3,Weighted Average Fusion,bimodal,42,Q3,Q1,7
+tvt_40_30_30,3,Weighted Average Fusion,bimodal,42,Q3,Q2,5
+tvt_40_30_30,3,Weighted Average Fusion,bimodal,42,Q3,Q3,117
+tvt_40_30_30,3,Weighted Average Fusion,bimodal,42,Q3,Q4,18
+tvt_40_30_30,3,Weighted Average Fusion,bimodal,42,Q4,Q1,32
+tvt_40_30_30,3,Weighted Average Fusion,bimodal,42,Q4,Q2,4
+tvt_40_30_30,3,Weighted Average Fusion,bimodal,42,Q4,Q3,25
+tvt_40_30_30,3,Weighted Average Fusion,bimodal,42,Q4,Q4,90
+tvt_40_30_30,3,Gated Multimodal Fusion,audio,42,Q1,Q1,128
+tvt_40_30_30,3,Gated Multimodal Fusion,audio,42,Q1,Q2,21
+tvt_40_30_30,3,Gated Multimodal Fusion,audio,42,Q1,Q3,2
+tvt_40_30_30,3,Gated Multimodal Fusion,audio,42,Q1,Q4,6
+tvt_40_30_30,3,Gated Multimodal Fusion,audio,42,Q2,Q1,16
+tvt_40_30_30,3,Gated Multimodal Fusion,audio,42,Q2,Q2,179
+tvt_40_30_30,3,Gated Multimodal Fusion,audio,42,Q2,Q3,3
+tvt_40_30_30,3,Gated Multimodal Fusion,audio,42,Q2,Q4,0
+tvt_40_30_30,3,Gated Multimodal Fusion,audio,42,Q3,Q1,24
+tvt_40_30_30,3,Gated Multimodal Fusion,audio,42,Q3,Q2,5
+tvt_40_30_30,3,Gated Multimodal Fusion,audio,42,Q3,Q3,47
+tvt_40_30_30,3,Gated Multimodal Fusion,audio,42,Q3,Q4,71
+tvt_40_30_30,3,Gated Multimodal Fusion,audio,42,Q4,Q1,29
+tvt_40_30_30,3,Gated Multimodal Fusion,audio,42,Q4,Q2,0
+tvt_40_30_30,3,Gated Multimodal Fusion,audio,42,Q4,Q3,41
+tvt_40_30_30,3,Gated Multimodal Fusion,audio,42,Q4,Q4,81
+tvt_40_30_30,3,Gated Multimodal Fusion,text,42,Q1,Q1,126
+tvt_40_30_30,3,Gated Multimodal Fusion,text,42,Q1,Q2,6
+tvt_40_30_30,3,Gated Multimodal Fusion,text,42,Q1,Q3,10
+tvt_40_30_30,3,Gated Multimodal Fusion,text,42,Q1,Q4,15
+tvt_40_30_30,3,Gated Multimodal Fusion,text,42,Q2,Q1,7
+tvt_40_30_30,3,Gated Multimodal Fusion,text,42,Q2,Q2,181
+tvt_40_30_30,3,Gated Multimodal Fusion,text,42,Q2,Q3,10
+tvt_40_30_30,3,Gated Multimodal Fusion,text,42,Q2,Q4,0
+tvt_40_30_30,3,Gated Multimodal Fusion,text,42,Q3,Q1,16
+tvt_40_30_30,3,Gated Multimodal Fusion,text,42,Q3,Q2,14
+tvt_40_30_30,3,Gated Multimodal Fusion,text,42,Q3,Q3,101
+tvt_40_30_30,3,Gated Multimodal Fusion,text,42,Q3,Q4,16
+tvt_40_30_30,3,Gated Multimodal Fusion,text,42,Q4,Q1,42
+tvt_40_30_30,3,Gated Multimodal Fusion,text,42,Q4,Q2,7
+tvt_40_30_30,3,Gated Multimodal Fusion,text,42,Q4,Q3,15
+tvt_40_30_30,3,Gated Multimodal Fusion,text,42,Q4,Q4,87
+tvt_40_30_30,3,Gated Multimodal Fusion,bimodal,42,Q1,Q1,140
+tvt_40_30_30,3,Gated Multimodal Fusion,bimodal,42,Q1,Q2,6
+tvt_40_30_30,3,Gated Multimodal Fusion,bimodal,42,Q1,Q3,3
+tvt_40_30_30,3,Gated Multimodal Fusion,bimodal,42,Q1,Q4,8
+tvt_40_30_30,3,Gated Multimodal Fusion,bimodal,42,Q2,Q1,4
+tvt_40_30_30,3,Gated Multimodal Fusion,bimodal,42,Q2,Q2,192
+tvt_40_30_30,3,Gated Multimodal Fusion,bimodal,42,Q2,Q3,2
+tvt_40_30_30,3,Gated Multimodal Fusion,bimodal,42,Q2,Q4,0
+tvt_40_30_30,3,Gated Multimodal Fusion,bimodal,42,Q3,Q1,5
+tvt_40_30_30,3,Gated Multimodal Fusion,bimodal,42,Q3,Q2,7
+tvt_40_30_30,3,Gated Multimodal Fusion,bimodal,42,Q3,Q3,114
+tvt_40_30_30,3,Gated Multimodal Fusion,bimodal,42,Q3,Q4,21
+tvt_40_30_30,3,Gated Multimodal Fusion,bimodal,42,Q4,Q1,29
+tvt_40_30_30,3,Gated Multimodal Fusion,bimodal,42,Q4,Q2,2
+tvt_40_30_30,3,Gated Multimodal Fusion,bimodal,42,Q4,Q3,25
+tvt_40_30_30,3,Gated Multimodal Fusion,bimodal,42,Q4,Q4,95

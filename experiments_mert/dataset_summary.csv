@@ -1,0 +1,14 @@
+metric,value
+total_metadata,2216
+audio_missing,0
+lyrics_missing,0
+audio_unreadable,0
+audio_too_short,42
+lyrics_too_short,2
+invalid_label,0
+duplicate_song_id,0
+final_samples,2172
+final_Q1,517
+final_Q2,661
+final_Q3,490
+final_Q4,504

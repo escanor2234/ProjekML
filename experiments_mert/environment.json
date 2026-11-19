@@ -1,0 +1,26 @@
+{
+  "python": "3.11.0",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "torch": "2.14.1+cu130",
+  "cuda_available": true,
+  "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+  "transformers": "5.17.0",
+  "optuna": "5.0.0",
+  "numpy": "1.26.4",
+  "pandas": "2.3.3",
+  "scikit_learn": "1.9.0",
+  "soundfile": "0.14.0",
+  "librosa": "0.11.0",
+  "mert_checkpoint": "m-a-p/MERT-v1-95M",
+  "roberta_checkpoint": "roberta-large",
+  "seed": 42,
+  "scenarios": [
+    "tvt_70_15_15",
+    "tvt_40_30_30"
+  ],
+  "repeats": 3,
+  "n_trials": 5,
+  "max_epochs": 30,
+  "patience": 15,
+  "quick_run": false
+}

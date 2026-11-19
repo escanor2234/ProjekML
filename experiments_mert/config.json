@@ -1,0 +1,17 @@
+{
+  "data_dir": "D:\\ml\\MERGE_Bimodal_Complete",
+  "metadata": "D:\\ml\\MERGE_Bimodal_Complete\\merge_bimodal_complete_metadata.csv",
+  "class_order": [
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4"
+  ],
+  "max_audio_sec": 30.0,
+  "max_lyrics_tokens": 512,
+  "audio_seq_len": 128,
+  "text_seq_len": 128,
+  "final_seeds": [
+    42
+  ]
+}
